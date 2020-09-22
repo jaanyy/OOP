@@ -1,0 +1,12 @@
+C:\Users\User\Source\Repos\Lab2\Lab2p10\bin\Debug\netcoreapp3.1\Lab2p10.exe
+C:\Users\User\Source\Repos\Lab2\Lab2p10\bin\Debug\netcoreapp3.1\Lab2p10.deps.json
+C:\Users\User\Source\Repos\Lab2\Lab2p10\bin\Debug\netcoreapp3.1\Lab2p10.runtimeconfig.json
+C:\Users\User\Source\Repos\Lab2\Lab2p10\bin\Debug\netcoreapp3.1\Lab2p10.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Lab2\Lab2p10\bin\Debug\netcoreapp3.1\Lab2p10.dll
+C:\Users\User\Source\Repos\Lab2\Lab2p10\bin\Debug\netcoreapp3.1\Lab2p10.pdb
+C:\Users\User\Source\Repos\Lab2\Lab2p10\obj\Debug\netcoreapp3.1\Lab2p10.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Lab2\Lab2p10\obj\Debug\netcoreapp3.1\Lab2p10.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Lab2\Lab2p10\obj\Debug\netcoreapp3.1\Lab2p10.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Lab2\Lab2p10\obj\Debug\netcoreapp3.1\Lab2p10.dll
+C:\Users\User\Source\Repos\Lab2\Lab2p10\obj\Debug\netcoreapp3.1\Lab2p10.pdb
+C:\Users\User\Source\Repos\Lab2\Lab2p10\obj\Debug\netcoreapp3.1\Lab2p10.genruntimeconfig.cache

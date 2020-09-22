@@ -1,0 +1,12 @@
+C:\Users\User\Source\Repos\Lab2\Lab2p8\bin\Debug\netcoreapp3.1\Lab2p8.exe
+C:\Users\User\Source\Repos\Lab2\Lab2p8\bin\Debug\netcoreapp3.1\Lab2p8.deps.json
+C:\Users\User\Source\Repos\Lab2\Lab2p8\bin\Debug\netcoreapp3.1\Lab2p8.runtimeconfig.json
+C:\Users\User\Source\Repos\Lab2\Lab2p8\bin\Debug\netcoreapp3.1\Lab2p8.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Lab2\Lab2p8\bin\Debug\netcoreapp3.1\Lab2p8.dll
+C:\Users\User\Source\Repos\Lab2\Lab2p8\bin\Debug\netcoreapp3.1\Lab2p8.pdb
+C:\Users\User\Source\Repos\Lab2\Lab2p8\obj\Debug\netcoreapp3.1\Lab2p8.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Lab2\Lab2p8\obj\Debug\netcoreapp3.1\Lab2p8.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Lab2\Lab2p8\obj\Debug\netcoreapp3.1\Lab2p8.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Lab2\Lab2p8\obj\Debug\netcoreapp3.1\Lab2p8.dll
+C:\Users\User\Source\Repos\Lab2\Lab2p8\obj\Debug\netcoreapp3.1\Lab2p8.pdb
+C:\Users\User\Source\Repos\Lab2\Lab2p8\obj\Debug\netcoreapp3.1\Lab2p8.genruntimeconfig.cache

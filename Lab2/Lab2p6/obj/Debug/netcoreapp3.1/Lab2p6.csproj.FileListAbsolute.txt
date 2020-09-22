@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\Lab2\Lab2p6\bin\Debug\netcoreapp3.1\Lab2p6.exe
+C:\Users\User\Source\Repos\Lab2\Lab2p6\bin\Debug\netcoreapp3.1\Lab2p6.deps.json
+C:\Users\User\Source\Repos\Lab2\Lab2p6\bin\Debug\netcoreapp3.1\Lab2p6.runtimeconfig.json
+C:\Users\User\Source\Repos\Lab2\Lab2p6\bin\Debug\netcoreapp3.1\Lab2p6.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\Lab2\Lab2p6\bin\Debug\netcoreapp3.1\Lab2p6.dll
+C:\Users\User\Source\Repos\Lab2\Lab2p6\bin\Debug\netcoreapp3.1\Lab2p6.pdb
+C:\Users\User\Source\Repos\Lab2\Lab2p6\obj\Debug\netcoreapp3.1\Lab2p6.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\Lab2\Lab2p6\obj\Debug\netcoreapp3.1\Lab2p6.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Lab2\Lab2p6\obj\Debug\netcoreapp3.1\Lab2p6.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Lab2\Lab2p6\obj\Debug\netcoreapp3.1\Lab2p6.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Lab2\Lab2p6\obj\Debug\netcoreapp3.1\Lab2p6.dll
+C:\Users\User\Source\Repos\Lab2\Lab2p6\obj\Debug\netcoreapp3.1\Lab2p6.pdb
+C:\Users\User\Source\Repos\Lab2\Lab2p6\obj\Debug\netcoreapp3.1\Lab2p6.genruntimeconfig.cache
