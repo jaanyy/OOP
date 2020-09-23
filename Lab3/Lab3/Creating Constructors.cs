@@ -2,7 +2,7 @@
 
 namespace Lab3
 {
-    class Lab3
+    class Lab3p2
     {
         class Person
         {
