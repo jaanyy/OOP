@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace lab3_Company_Roster
 {
@@ -20,6 +21,11 @@ namespace lab3_Company_Roster
             Email = email;
             Age = age;
         }
+    }
+    class Company
+    {
+        private List<Employee> people;
+
 
     }
     class Company_Roster
@@ -31,16 +37,9 @@ namespace lab3_Company_Roster
             {
                 string[] input = Console.ReadLine().Split(' ');
                 int t = input.Length;
-                if (t == 4)
-                {
-                    Employee person = new Employee(input[0], Convert.ToDouble(input[1]), input[2], input[3]);
-                }
-                else if (t == 5)
-                {
-                    Employee person = new Employee(input[0], Convert.ToDouble(input[1]), input[3], input[4], (input[5]));
-                }
                 
-                
+
+
             }
         }
     }
