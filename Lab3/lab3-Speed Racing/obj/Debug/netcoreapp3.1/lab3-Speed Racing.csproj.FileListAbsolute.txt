@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Speed Racing\obj\Debug\netcoreapp3.1\lab3-Speed Racing.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Speed Racing\obj\Debug\netcoreapp3.1\lab3-Speed Racing.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Speed Racing\obj\Debug\netcoreapp3.1\lab3-Speed Racing.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Speed Racing\obj\Debug\netcoreapp3.1\lab3-Speed Racing.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Speed Racing\bin\Debug\netcoreapp3.1\lab3-Speed Racing.exe
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Speed Racing\bin\Debug\netcoreapp3.1\lab3-Speed Racing.deps.json
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Speed Racing\bin\Debug\netcoreapp3.1\lab3-Speed Racing.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Speed Racing\bin\Debug\netcoreapp3.1\lab3-Speed Racing.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Speed Racing\bin\Debug\netcoreapp3.1\lab3-Speed Racing.dll
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Speed Racing\bin\Debug\netcoreapp3.1\lab3-Speed Racing.pdb
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Speed Racing\obj\Debug\netcoreapp3.1\lab3-Speed Racing.dll
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Speed Racing\obj\Debug\netcoreapp3.1\lab3-Speed Racing.pdb
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Speed Racing\obj\Debug\netcoreapp3.1\lab3-Speed Racing.genruntimeconfig.cache
