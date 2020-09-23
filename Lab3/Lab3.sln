@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3 - Creating Constructors", "Lab3\lab3 - Creating Constructors.csproj", "{5C38441B-70A9-4198-B4E1-0CC4E13A2AB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3 - Creating Constructors", "Lab3\lab3 - Creating Constructors.csproj", "{5C38441B-70A9-4198-B4E1-0CC4E13A2AB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3 - Oldest Family Member", "lab3 - Oldest Family Member\lab3 - Oldest Family Member.csproj", "{F78D8655-46DF-43A8-97D1-57903D277505}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3 - Oldest Family Member", "lab3 - Oldest Family Member\lab3 - Oldest Family Member.csproj", "{F78D8655-46DF-43A8-97D1-57903D277505}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3-Opinion Poll", "lab3-Opinion Poll\lab3-Opinion Poll.csproj", "{8AF78392-DDBC-4976-B608-A8E1BE3C8885}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F78D8655-46DF-43A8-97D1-57903D277505}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F78D8655-46DF-43A8-97D1-57903D277505}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F78D8655-46DF-43A8-97D1-57903D277505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AF78392-DDBC-4976-B608-A8E1BE3C8885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF78392-DDBC-4976-B608-A8E1BE3C8885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF78392-DDBC-4976-B608-A8E1BE3C8885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF78392-DDBC-4976-B608-A8E1BE3C8885}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
