@@ -65,6 +65,8 @@ namespace Lab3
             }
             Person old = f1.GetOldestMember();
             Console.WriteLine($"{old.Name} {old.Age}");
+            Console.ReadKey();
         }
+
     }
 }

@@ -51,7 +51,7 @@ namespace lab3_Opinion_Poll
             {
                 Console.WriteLine($"{a.Name} - {a.Age}");
             }
-            
+            Console.ReadKey();
         }
     }
 }

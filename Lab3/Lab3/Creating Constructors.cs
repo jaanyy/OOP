@@ -28,6 +28,9 @@ namespace Lab3
         {
             Person p1 = new Person();
             Console.WriteLine($"{p1.Name} - {p1.Age}");
+
+            Console.ReadKey();
         }
     }
+    
 }

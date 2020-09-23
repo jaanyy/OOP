@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3 - Oldest Family Member
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3-Opinion Poll", "lab3-Opinion Poll\lab3-Opinion Poll.csproj", "{8AF78392-DDBC-4976-B608-A8E1BE3C8885}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3-Date Modifier", "lab3-Date Modifier\lab3-Date Modifier.csproj", "{EA023B0A-3455-4586-BB00-F582BEEB1B71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8AF78392-DDBC-4976-B608-A8E1BE3C8885}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AF78392-DDBC-4976-B608-A8E1BE3C8885}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AF78392-DDBC-4976-B608-A8E1BE3C8885}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA023B0A-3455-4586-BB00-F582BEEB1B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA023B0A-3455-4586-BB00-F582BEEB1B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA023B0A-3455-4586-BB00-F582BEEB1B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA023B0A-3455-4586-BB00-F582BEEB1B71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
