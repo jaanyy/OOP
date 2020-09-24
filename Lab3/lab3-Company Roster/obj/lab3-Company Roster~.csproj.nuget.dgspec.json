@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Speed Racing\\lab3-Speed Racing.csproj": {}
+    "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Company Roster\\lab3-Company Roster~.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Speed Racing\\lab3-Speed Racing.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Company Roster\\lab3-Company Roster~.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Speed Racing\\lab3-Speed Racing.csproj",
-        "projectName": "lab3-Speed Racing",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Speed Racing\\lab3-Speed Racing.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Company Roster\\lab3-Company Roster~.csproj",
+        "projectName": "lab3-Company Roster~",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Company Roster\\lab3-Company Roster~.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Speed Racing\\obj\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Company Roster\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
