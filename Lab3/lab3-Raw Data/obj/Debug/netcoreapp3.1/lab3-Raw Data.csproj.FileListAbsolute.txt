@@ -1,0 +1,12 @@
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Raw Data\bin\Debug\netcoreapp3.1\lab3-Raw Data.exe
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Raw Data\bin\Debug\netcoreapp3.1\lab3-Raw Data.deps.json
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Raw Data\bin\Debug\netcoreapp3.1\lab3-Raw Data.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Raw Data\bin\Debug\netcoreapp3.1\lab3-Raw Data.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Raw Data\bin\Debug\netcoreapp3.1\lab3-Raw Data.dll
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Raw Data\bin\Debug\netcoreapp3.1\lab3-Raw Data.pdb
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Raw Data\obj\Debug\netcoreapp3.1\lab3-Raw Data.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Raw Data\obj\Debug\netcoreapp3.1\lab3-Raw Data.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Raw Data\obj\Debug\netcoreapp3.1\lab3-Raw Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Raw Data\obj\Debug\netcoreapp3.1\lab3-Raw Data.dll
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Raw Data\obj\Debug\netcoreapp3.1\lab3-Raw Data.pdb
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Raw Data\obj\Debug\netcoreapp3.1\lab3-Raw Data.genruntimeconfig.cache

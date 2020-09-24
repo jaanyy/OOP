@@ -7,13 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3 - Creating Constructor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3 - Oldest Family Member", "lab3 - Oldest Family Member\lab3 - Oldest Family Member.csproj", "{F78D8655-46DF-43A8-97D1-57903D277505}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3-Opinion Poll", "lab3-Opinion Poll\lab3-Opinion Poll.csproj", "{8AF78392-DDBC-4976-B608-A8E1BE3C8885}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3-Opinion Poll", "lab3-Opinion Poll\lab3-Opinion Poll.csproj", "{8AF78392-DDBC-4976-B608-A8E1BE3C8885}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3-Date Modifier", "lab3-Date Modifier\lab3-Date Modifier.csproj", "{EA023B0A-3455-4586-BB00-F582BEEB1B71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3-Date Modifier", "lab3-Date Modifier\lab3-Date Modifier.csproj", "{EA023B0A-3455-4586-BB00-F582BEEB1B71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3-Company Roster", "lab3-Company Roster\lab3-Company Roster.csproj", "{B680FB10-4A48-40DB-9067-68E88145E99E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3-Company Roster", "lab3-Company Roster\lab3-Company Roster.csproj", "{B680FB10-4A48-40DB-9067-68E88145E99E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3-Speed Racing", "lab3-Speed Racing\lab3-Speed Racing.csproj", "{C7BB5143-2F47-4FFD-AB31-C583F70BC50B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3-Speed Racing", "lab3-Speed Racing\lab3-Speed Racing.csproj", "{C7BB5143-2F47-4FFD-AB31-C583F70BC50B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3-Raw Data", "lab3-Raw Data\lab3-Raw Data.csproj", "{42CB1B29-B053-45AE-8065-64BBE6C49DC9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{C7BB5143-2F47-4FFD-AB31-C583F70BC50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7BB5143-2F47-4FFD-AB31-C583F70BC50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7BB5143-2F47-4FFD-AB31-C583F70BC50B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42CB1B29-B053-45AE-8065-64BBE6C49DC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42CB1B29-B053-45AE-8065-64BBE6C49DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42CB1B29-B053-45AE-8065-64BBE6C49DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42CB1B29-B053-45AE-8065-64BBE6C49DC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
