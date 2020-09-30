@@ -140,8 +140,7 @@ namespace lab3_Company_Roster
     {
         static void Main(string[] args)
         {
-            int N = 0;
-            N = Convert.ToInt32(Console.ReadLine());
+            int N = Convert.ToInt32(Console.ReadLine());
             Company company = new Company();
             for (int i = 0; i < N; ++i)
             {

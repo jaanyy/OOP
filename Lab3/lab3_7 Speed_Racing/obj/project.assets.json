@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Company Roster\\lab3_6-Company Roster.csproj",
-      "projectName": "lab3_6-Company Roster",
-      "projectPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Company Roster\\lab3_6-Company Roster.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3_7 Speed_Racing\\lab3_7-Speed_Racing.csproj",
+      "projectName": "lab3_7-Speed_Racing",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3_7 Speed_Racing\\lab3_7-Speed_Racing.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Company Roster\\obj\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3_7 Speed_Racing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
