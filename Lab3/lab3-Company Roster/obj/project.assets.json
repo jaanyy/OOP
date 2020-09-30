@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Company Roster\\lab3-Company Roster~.csproj",
-      "projectName": "lab3-Company Roster~",
-      "projectPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Company Roster\\lab3-Company Roster~.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Company Roster\\lab3_6-Company Roster~.csproj",
+      "projectName": "lab3_6-Company Roster~",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Company Roster\\lab3_6-Company Roster~.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Company Roster\\obj\\",
       "projectStyle": "PackageReference",

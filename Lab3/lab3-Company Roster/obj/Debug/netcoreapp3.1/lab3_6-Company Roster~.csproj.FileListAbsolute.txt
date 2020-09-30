@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Company Roster\obj\Debug\netcoreapp3.1\lab3_6-Company Roster~.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Company Roster\obj\Debug\netcoreapp3.1\lab3_6-Company Roster~.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Company Roster\obj\Debug\netcoreapp3.1\lab3_6-Company Roster~.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Company Roster\obj\Debug\netcoreapp3.1\lab3_6-Company Roster~.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Company Roster\bin\Debug\netcoreapp3.1\lab3_6-Company Roster~.exe
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Company Roster\bin\Debug\netcoreapp3.1\lab3_6-Company Roster~.deps.json
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Company Roster\bin\Debug\netcoreapp3.1\lab3_6-Company Roster~.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Company Roster\bin\Debug\netcoreapp3.1\lab3_6-Company Roster~.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Company Roster\bin\Debug\netcoreapp3.1\lab3_6-Company Roster~.dll
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Company Roster\bin\Debug\netcoreapp3.1\lab3_6-Company Roster~.pdb
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Company Roster\obj\Debug\netcoreapp3.1\lab3_6-Company Roster~.dll
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Company Roster\obj\Debug\netcoreapp3.1\lab3_6-Company Roster~.pdb
+C:\Users\User\Source\Repos\OOP\Lab3\lab3-Company Roster\obj\Debug\netcoreapp3.1\lab3_6-Company Roster~.genruntimeconfig.cache
