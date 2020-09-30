@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3-Opinion Poll", "lab3-O
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3-Date Modifier", "lab3-Date Modifier\lab3-Date Modifier.csproj", "{EA023B0A-3455-4586-BB00-F582BEEB1B71}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3-Company Roster", "lab3-Company Roster\lab3-Company Roster.csproj", "{B680FB10-4A48-40DB-9067-68E88145E99E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3-Company Roster~", "lab3-Company Roster\lab3-Company Roster~.csproj", "{B680FB10-4A48-40DB-9067-68E88145E99E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3-Speed Racing", "lab3-Speed Racing\lab3-Speed Racing.csproj", "{C7BB5143-2F47-4FFD-AB31-C583F70BC50B}"
 EndProject
