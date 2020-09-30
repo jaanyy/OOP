@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Date Modifier\\lab3-Date Modifier.csproj",
-      "projectName": "lab3-Date Modifier",
-      "projectPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Date Modifier\\lab3-Date Modifier.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Date Modifier\\lab3_5-Date Modifier.csproj",
+      "projectName": "lab3_5-Date Modifier",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Date Modifier\\lab3_5-Date Modifier.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Date Modifier\\obj\\",
       "projectStyle": "PackageReference",

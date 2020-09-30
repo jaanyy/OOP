@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Opinion Poll\\lab3-Opinion Poll.csproj",
-      "projectName": "lab3-Opinion Poll",
-      "projectPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Opinion Poll\\lab3-Opinion Poll.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Opinion Poll\\lab3_4-Opinion Poll.csproj",
+      "projectName": "lab3_4-Opinion Poll",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Opinion Poll\\lab3_4-Opinion Poll.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Opinion Poll\\obj\\",
       "projectStyle": "PackageReference",

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\Lab3\\lab3 - Creating Constructors.csproj",
-      "projectName": "lab3 - Creating Constructors",
-      "projectPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\Lab3\\lab3 - Creating Constructors.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\Lab3\\lab3_1,2 - Creating Constructors.csproj",
+      "projectName": "lab3_1,2 - Creating Constructors",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\Lab3\\lab3_1,2 - Creating Constructors.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\Lab3\\obj\\",
       "projectStyle": "PackageReference",

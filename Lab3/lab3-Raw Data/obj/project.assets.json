@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Raw Data\\lab3-Raw Data.csproj",
-      "projectName": "lab3-Raw Data",
-      "projectPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Raw Data\\lab3-Raw Data.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Raw Data\\lab3_8-Raw Data.csproj",
+      "projectName": "lab3_8-Raw Data",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Raw Data\\lab3_8-Raw Data.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3-Raw Data\\obj\\",
       "projectStyle": "PackageReference",

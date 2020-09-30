@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3 - Oldest Family Member\\lab3 - Oldest Family Member.csproj",
-      "projectName": "lab3 - Oldest Family Member",
-      "projectPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3 - Oldest Family Member\\lab3 - Oldest Family Member.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3 - Oldest Family Member\\lab3_3 - Oldest Family Member.csproj",
+      "projectName": "lab3_3 - Oldest Family Member",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3 - Oldest Family Member\\lab3_3 - Oldest Family Member.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab3\\lab3 - Oldest Family Member\\obj\\",
       "projectStyle": "PackageReference",
