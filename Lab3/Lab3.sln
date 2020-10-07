@@ -11,11 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3_4-Opinion Poll", "lab3
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3_5-Date Modifier", "lab3-Date Modifier\lab3_5-Date Modifier.csproj", "{EA023B0A-3455-4586-BB00-F582BEEB1B71}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3_6-Company Roster~", "lab3-Company Roster\lab3_6-Company Roster~.csproj", "{B680FB10-4A48-40DB-9067-68E88145E99E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3_6-Company Roster", "lab3-Company Roster\lab3_6-Company Roster.csproj", "{B680FB10-4A48-40DB-9067-68E88145E99E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab3_8-Raw Data", "lab3-Raw Data\lab3_8-Raw Data.csproj", "{42CB1B29-B053-45AE-8065-64BBE6C49DC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3_7 Speed_Racing", "lab3_7 Speed_Racing\lab3_7 Speed_Racing.csproj", "{25FB730E-BF9B-4998-96EB-E6AD992328F3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3_7-Speed_Racing", "lab3_7 Speed_Racing\lab3_7-Speed_Racing.csproj", "{25FB730E-BF9B-4998-96EB-E6AD992328F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
