@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\OOP\Lab5\Lab5\2 Class Box Data Validation\bin\Debug\netcoreapp3.1\2 Class Box Data Validation.exe
+C:\Users\User\Source\Repos\OOP\Lab5\Lab5\2 Class Box Data Validation\bin\Debug\netcoreapp3.1\2 Class Box Data Validation.deps.json
+C:\Users\User\Source\Repos\OOP\Lab5\Lab5\2 Class Box Data Validation\bin\Debug\netcoreapp3.1\2 Class Box Data Validation.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab5\Lab5\2 Class Box Data Validation\bin\Debug\netcoreapp3.1\2 Class Box Data Validation.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab5\Lab5\2 Class Box Data Validation\bin\Debug\netcoreapp3.1\2 Class Box Data Validation.dll
+C:\Users\User\Source\Repos\OOP\Lab5\Lab5\2 Class Box Data Validation\bin\Debug\netcoreapp3.1\2 Class Box Data Validation.pdb
+C:\Users\User\Source\Repos\OOP\Lab5\Lab5\2 Class Box Data Validation\obj\Debug\netcoreapp3.1\2 Class Box Data Validation.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\OOP\Lab5\Lab5\2 Class Box Data Validation\obj\Debug\netcoreapp3.1\2 Class Box Data Validation.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab5\Lab5\2 Class Box Data Validation\obj\Debug\netcoreapp3.1\2 Class Box Data Validation.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab5\Lab5\2 Class Box Data Validation\obj\Debug\netcoreapp3.1\2 Class Box Data Validation.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab5\Lab5\2 Class Box Data Validation\obj\Debug\netcoreapp3.1\2 Class Box Data Validation.dll
+C:\Users\User\Source\Repos\OOP\Lab5\Lab5\2 Class Box Data Validation\obj\Debug\netcoreapp3.1\2 Class Box Data Validation.pdb
+C:\Users\User\Source\Repos\OOP\Lab5\Lab5\2 Class Box Data Validation\obj\Debug\netcoreapp3.1\2 Class Box Data Validation.genruntimeconfig.cache
