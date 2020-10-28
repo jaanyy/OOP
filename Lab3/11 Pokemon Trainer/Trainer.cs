@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 
 namespace _11_Pokemon_Trainer
@@ -13,14 +12,14 @@ namespace _11_Pokemon_Trainer
 
         public Trainer(string name)
         {
-            this.Name = name;
-            this.Pokemons = new List<Pokemon>();
+            Name = name;
+            Pokemons = new List<Pokemon>();
         }
 
 
         public void AddPokemon(Pokemon pokemon)
         {
-            this.Pokemons.Add(pokemon);
+            Pokemons.Add(pokemon);
         }
 
         public void IncreaseBadges()
@@ -30,12 +29,22 @@ namespace _11_Pokemon_Trainer
 
         public void ReducePokemonsHealth()
         {
-            this.Pokemons.ForEach(p => p.ReduceHealth());
+            foreach(var p in Pokemons)
+            {
+                p.ReduceHealth();
+            }
         }
 
         public void RemoveDead()
         {
-            this.Pokemons = this.Pokemons.Where(p => p.Health > 0).ToList();
+            List<Pokemon> result = new List<Pokemon>();
+            foreach(var p in Pokemons)
+            {
+                if(p.Health > 0)
+                {
+                    result.Add(p);
+                }
+            }
         }
 
         public override string ToString()

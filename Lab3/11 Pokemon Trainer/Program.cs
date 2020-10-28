@@ -20,11 +20,19 @@ namespace _11_Pokemon_Trainer
                 string pokemonName = input[1];
                 string pokemonElement = input[2];
                 int pokemonHealth = Convert.ToInt32(input[3]);
-
-                if (!trainers.Any(t => t.Name == trainerName))
+                int temp = 0;
+                foreach(var t in trainers)
+                {
+                    if ((t.Name == trainerName))
+                    {
+                        temp++;
+                    }
+                }
+                if (temp == 0)
                 {
                     trainers.Add(new Trainer(trainerName));
                 }
+                
 
                 Trainer trainer = trainers.First(t => t.Name == trainerName);
 
