@@ -6,9 +6,9 @@ namespace _1_Class_Box
     {
         static void Main(string[] args)
         {
-            double length = double.Parse(Console.ReadLine());
-            double width = double.Parse(Console.ReadLine());
-            double height = double.Parse(Console.ReadLine());
+            double length = Convert.ToDouble(Console.ReadLine());
+            double width = Convert.ToDouble(Console.ReadLine());
+            double height = Convert.ToDouble(Console.ReadLine());
 
             Box box = new Box(length, width, height);
 
