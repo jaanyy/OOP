@@ -14,36 +14,43 @@ namespace _12_Google
 
             while ((command = Console.ReadLine()) != "End")
             {
-                var tokens = command.Split(' ', StringSplitOptions.RemoveEmptyEntries);
+                var input = command.Split(' ', StringSplitOptions.RemoveEmptyEntries);
 
-                string name = tokens[0];
-                string property = tokens[1];
-
-                if (!people.Any(p => p.Name == name))
+                string name = input[0];
+                string property = input[1];
+                int temp = 0;
+                foreach (var p in people)
+                {
+                    if ((p.Name == name))
+                    {
+                        temp++;
+                    }
+                }
+                if (temp == 0)
                 {
                     people.Add(new Person(name));
                 }
-
+                                
                 var current = people.First(p => p.Name == name);
 
                 switch (property)
                 {
                     case "company":
-                        current.AssignCompany(tokens[2], tokens[3], decimal.Parse(tokens[4]));
+                        current.AssignCompany(input[2], input[3], Convert.ToDecimal(input[4].Replace('.', ',')));
                         break;
                     case "pokemon":
-                        current.AddPokemon(tokens[2], tokens[3]);
+                        current.AddPokemon(input[2], input[3]);
                         break;
                     case "parents":
-                        string parentName = tokens[2];
-                        current.AddParent(new Person(parentName, tokens[3]));
+                        string parentName = input[2];
+                        current.AddParent(new Person(parentName, input[3]));
                         break;
                     case "children":
-                        string childName = tokens[2];
-                        current.AddChild(new Person(childName, tokens[3]));
+                        string childName = input[2];
+                        current.AddChild(new Person(childName, input[3]));
                         break;
                     case "car":
-                        current.AssignCar(tokens[2], int.Parse(tokens[3]));
+                        current.AssignCar(input[2], int.Parse(input[3]));
                         break;
                     default:
                         throw new Exception();
@@ -54,6 +61,8 @@ namespace _12_Google
 
             Person result = people.First(p => p.Name == command);
             Console.WriteLine(result);
+
+            Console.ReadKey();
         }
     }
 }

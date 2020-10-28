@@ -6,6 +6,7 @@ namespace _12_Google
 {
     class Person
     {
+        
         private class Company
         {
             private string name;
