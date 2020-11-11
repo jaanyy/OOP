@@ -13,10 +13,10 @@ namespace _1_Raw_Data
 
         public Car(string model, Engine engine, Cargo cargo, List<Tire> tires)
         {
-            this.Model = model;
-            this.Engine = engine;
-            this.Cargo = cargo;
-            this.Tires = tires;
+            Model = model;
+            Engine = engine;
+            Cargo = cargo;
+            Tires = tires;
         }
     }
 }
