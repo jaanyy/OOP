@@ -22,7 +22,7 @@ namespace _1_Person
                 return this.name;
             }
 
-            protected set
+            set
             {
                 if (value.Length < 3)
                 {
@@ -40,7 +40,7 @@ namespace _1_Person
                 return this.age;
             }
 
-            protected set
+            set
             {
                 if (value < 0)
                 {
