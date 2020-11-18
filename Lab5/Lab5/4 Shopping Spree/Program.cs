@@ -8,13 +8,13 @@ namespace _4_Shopping_Spree
     {
         static void Main(string[] args)
         {
-            string[] input = Console.ReadLine().Split(';', StringSplitOptions.RemoveEmptyEntries);
+            string[] input = Console.ReadLine().Split(';');
             List<Person> persons = new List<Person>();
             List<Product> products = new List<Product>();
 
-            foreach (var pair in input)
+            foreach (var p in input)
             {
-                var input2 = pair.Split('=');
+                var input2 = p.Split('=');
 
                 try
                 {
@@ -27,11 +27,11 @@ namespace _4_Shopping_Spree
                 }
             }
 
-            input = Console.ReadLine().Split(';', StringSplitOptions.RemoveEmptyEntries);
+            input = Console.ReadLine().Split(';');
 
-            foreach (var pair in input)
+            foreach (var p in input)
             {
-                var tokens = pair.Split('=');
+                var tokens = p.Split('=');
 
                 try
                 {
