@@ -11,15 +11,15 @@ namespace _1_Person
 
         public Person(string name, int age)
         {
-            this.Name = name;
-            this.Age = age;
+            Name = name;
+            Age = age;
         }
 
         public virtual string Name
         {
             get
             {
-                return this.name;
+                return name;
             }
 
             set
@@ -29,7 +29,7 @@ namespace _1_Person
                     throw new ArgumentException("Name's length should not be less than 3 symbols!");
                 }
 
-                this.name = value;
+                name = value;
             }
         }
 
@@ -37,7 +37,7 @@ namespace _1_Person
         {
             get
             {
-                return this.age;
+                return age;
             }
 
             set
@@ -47,7 +47,7 @@ namespace _1_Person
                     throw new ArgumentException("Age must be positive!");
                 }
 
-                this.age = value;
+                age = value;
             }
         }
 
