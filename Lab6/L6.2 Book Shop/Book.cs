@@ -25,7 +25,7 @@ namespace L6._2_Book_Shop
                 return title;
             }
 
-            protected set
+            set
             {
                 if (value.Length < 3)
                 {
@@ -43,7 +43,7 @@ namespace L6._2_Book_Shop
                 return author;
             }
 
-            protected set
+            set
             {
                 if (Char.IsDigit(value[1]))
                 {
@@ -61,7 +61,7 @@ namespace L6._2_Book_Shop
                 return price;
             }
 
-            protected set
+            set
             {
                 if (value <= 0)
                 {

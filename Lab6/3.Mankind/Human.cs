@@ -22,7 +22,7 @@ namespace _3.Mankind
                 return firstName;
             }
 
-            protected set
+            set
             {
                 if (!Char.IsUpper(value[1]))
                 {
@@ -40,7 +40,7 @@ namespace _3.Mankind
 
         protected string LastName
         {
-            private get
+            get
             {
                 return lastName;
             }
