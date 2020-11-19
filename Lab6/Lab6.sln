@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1 Person", "1 Person\1 Person.csproj", "{647717A1-ED4D-43E4-B4D8-9C9F47E818DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L6.2 Book Shop", "L6.2 Book Shop\L6.2 Book Shop.csproj", "{5FB84E63-D087-468F-87A8-DD77B1A1B51D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L6.2 Book Shop", "L6.2 Book Shop\L6.2 Book Shop.csproj", "{5FB84E63-D087-468F-87A8-DD77B1A1B51D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Mankind", "3.Mankind\3.Mankind.csproj", "{2B560EC8-29C4-4A9B-B5C0-F563B0F2E19E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Online Radio Database", "4.Online Radio Database\4.Online Radio Database.csproj", "{363F1B0C-E59E-4C87-84F7-DCAD946106B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{5FB84E63-D087-468F-87A8-DD77B1A1B51D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FB84E63-D087-468F-87A8-DD77B1A1B51D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FB84E63-D087-468F-87A8-DD77B1A1B51D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B560EC8-29C4-4A9B-B5C0-F563B0F2E19E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B560EC8-29C4-4A9B-B5C0-F563B0F2E19E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B560EC8-29C4-4A9B-B5C0-F563B0F2E19E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B560EC8-29C4-4A9B-B5C0-F563B0F2E19E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{363F1B0C-E59E-4C87-84F7-DCAD946106B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363F1B0C-E59E-4C87-84F7-DCAD946106B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363F1B0C-E59E-4C87-84F7-DCAD946106B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363F1B0C-E59E-4C87-84F7-DCAD946106B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
