@@ -10,3 +10,4 @@ C:\Users\User\Source\Repos\OOP\Lab6\1 Person\obj\Debug\netcoreapp3.1\1 Person.cs
 C:\Users\User\Source\Repos\OOP\Lab6\1 Person\obj\Debug\netcoreapp3.1\1 Person.dll
 C:\Users\User\Source\Repos\OOP\Lab6\1 Person\obj\Debug\netcoreapp3.1\1 Person.pdb
 C:\Users\User\Source\Repos\OOP\Lab6\1 Person\obj\Debug\netcoreapp3.1\1 Person.genruntimeconfig.cache
+C:\Users\User\Source\Repos\OOP\Lab6\1 Person\obj\Debug\netcoreapp3.1\1 Person.csprojAssemblyReference.cache
