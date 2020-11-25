@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab7\\L7_8.Military_Elite\\L7_8.Military_Elite.csproj",
-      "projectName": "L7_8.Military_Elite",
-      "projectPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab7\\L7_8.Military_Elite\\L7_8.Military_Elite.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab7\\L7_8.Military_Elite\\L7_8.Military_Elite-.csproj",
+      "projectName": "L7_8.Military_Elite-",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab7\\L7_8.Military_Elite\\L7_8.Military_Elite-.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\Source\\Repos\\OOP\\Lab7\\L7_8.Military_Elite\\obj\\",
       "projectStyle": "PackageReference",

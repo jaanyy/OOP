@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L7_6.Birthday", "L7_6.Birth
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L7_7.Food_Shortage", "L7_7.Food_Shortage\L7_7.Food_Shortage.csproj", "{63AEA4A4-BD69-4690-8B99-901B4686530B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L7_8.Military_Elite", "L7_8.Military_Elite\L7_8.Military_Elite.csproj", "{98F4FD63-35E7-42AD-AACF-D6EBF3432CC8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L7_8.Military_Elite-", "L7_8.Military_Elite\L7_8.Military_Elite-.csproj", "{98F4FD63-35E7-42AD-AACF-D6EBF3432CC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
