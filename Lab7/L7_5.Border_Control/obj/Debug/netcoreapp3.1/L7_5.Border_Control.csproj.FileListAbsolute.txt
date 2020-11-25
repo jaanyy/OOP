@@ -1,0 +1,12 @@
+C:\Users\User\Source\Repos\OOP\Lab7\L7_5.Border_Control\bin\Debug\netcoreapp3.1\L7_5.Border_Control.exe
+C:\Users\User\Source\Repos\OOP\Lab7\L7_5.Border_Control\bin\Debug\netcoreapp3.1\L7_5.Border_Control.deps.json
+C:\Users\User\Source\Repos\OOP\Lab7\L7_5.Border_Control\bin\Debug\netcoreapp3.1\L7_5.Border_Control.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab7\L7_5.Border_Control\bin\Debug\netcoreapp3.1\L7_5.Border_Control.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab7\L7_5.Border_Control\bin\Debug\netcoreapp3.1\L7_5.Border_Control.dll
+C:\Users\User\Source\Repos\OOP\Lab7\L7_5.Border_Control\bin\Debug\netcoreapp3.1\L7_5.Border_Control.pdb
+C:\Users\User\Source\Repos\OOP\Lab7\L7_5.Border_Control\obj\Debug\netcoreapp3.1\L7_5.Border_Control.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab7\L7_5.Border_Control\obj\Debug\netcoreapp3.1\L7_5.Border_Control.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab7\L7_5.Border_Control\obj\Debug\netcoreapp3.1\L7_5.Border_Control.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab7\L7_5.Border_Control\obj\Debug\netcoreapp3.1\L7_5.Border_Control.dll
+C:\Users\User\Source\Repos\OOP\Lab7\L7_5.Border_Control\obj\Debug\netcoreapp3.1\L7_5.Border_Control.pdb
+C:\Users\User\Source\Repos\OOP\Lab7\L7_5.Border_Control\obj\Debug\netcoreapp3.1\L7_5.Border_Control.genruntimeconfig.cache

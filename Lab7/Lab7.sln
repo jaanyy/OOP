@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L7_3.Ferrari", "L7_3.Ferrar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L7_4.Telephony", "L7_4.Telephony\L7_4.Telephony.csproj", "{17D58E09-6426-4B95-A2A8-23C31764D16E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L7_5.Border_Control", "L7_5.Border_Control\L7_5.Border_Control.csproj", "{88A3B16B-043C-437E-B8B6-FF38E3686D2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{17D58E09-6426-4B95-A2A8-23C31764D16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17D58E09-6426-4B95-A2A8-23C31764D16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17D58E09-6426-4B95-A2A8-23C31764D16E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88A3B16B-043C-437E-B8B6-FF38E3686D2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A3B16B-043C-437E-B8B6-FF38E3686D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A3B16B-043C-437E-B8B6-FF38E3686D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A3B16B-043C-437E-B8B6-FF38E3686D2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
