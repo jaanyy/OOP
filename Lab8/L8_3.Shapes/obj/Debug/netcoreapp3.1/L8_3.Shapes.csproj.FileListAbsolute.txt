@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\OOP\Lab8\L8_3.Shapes\bin\Debug\netcoreapp3.1\L8_3.Shapes.exe
+C:\Users\User\Source\Repos\OOP\Lab8\L8_3.Shapes\bin\Debug\netcoreapp3.1\L8_3.Shapes.deps.json
+C:\Users\User\Source\Repos\OOP\Lab8\L8_3.Shapes\bin\Debug\netcoreapp3.1\L8_3.Shapes.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab8\L8_3.Shapes\bin\Debug\netcoreapp3.1\L8_3.Shapes.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab8\L8_3.Shapes\bin\Debug\netcoreapp3.1\L8_3.Shapes.dll
+C:\Users\User\Source\Repos\OOP\Lab8\L8_3.Shapes\bin\Debug\netcoreapp3.1\L8_3.Shapes.pdb
+C:\Users\User\Source\Repos\OOP\Lab8\L8_3.Shapes\obj\Debug\netcoreapp3.1\L8_3.Shapes.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\OOP\Lab8\L8_3.Shapes\obj\Debug\netcoreapp3.1\L8_3.Shapes.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab8\L8_3.Shapes\obj\Debug\netcoreapp3.1\L8_3.Shapes.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab8\L8_3.Shapes\obj\Debug\netcoreapp3.1\L8_3.Shapes.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab8\L8_3.Shapes\obj\Debug\netcoreapp3.1\L8_3.Shapes.dll
+C:\Users\User\Source\Repos\OOP\Lab8\L8_3.Shapes\obj\Debug\netcoreapp3.1\L8_3.Shapes.pdb
+C:\Users\User\Source\Repos\OOP\Lab8\L8_3.Shapes\obj\Debug\netcoreapp3.1\L8_3.Shapes.genruntimeconfig.cache
