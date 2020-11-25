@@ -1,0 +1,12 @@
+C:\Users\User\Source\Repos\OOP\Lab7\L7_4.Telephony\bin\Debug\netcoreapp3.1\L7_4.Telephony.exe
+C:\Users\User\Source\Repos\OOP\Lab7\L7_4.Telephony\bin\Debug\netcoreapp3.1\L7_4.Telephony.deps.json
+C:\Users\User\Source\Repos\OOP\Lab7\L7_4.Telephony\bin\Debug\netcoreapp3.1\L7_4.Telephony.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab7\L7_4.Telephony\bin\Debug\netcoreapp3.1\L7_4.Telephony.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab7\L7_4.Telephony\bin\Debug\netcoreapp3.1\L7_4.Telephony.dll
+C:\Users\User\Source\Repos\OOP\Lab7\L7_4.Telephony\bin\Debug\netcoreapp3.1\L7_4.Telephony.pdb
+C:\Users\User\Source\Repos\OOP\Lab7\L7_4.Telephony\obj\Debug\netcoreapp3.1\L7_4.Telephony.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab7\L7_4.Telephony\obj\Debug\netcoreapp3.1\L7_4.Telephony.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab7\L7_4.Telephony\obj\Debug\netcoreapp3.1\L7_4.Telephony.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab7\L7_4.Telephony\obj\Debug\netcoreapp3.1\L7_4.Telephony.dll
+C:\Users\User\Source\Repos\OOP\Lab7\L7_4.Telephony\obj\Debug\netcoreapp3.1\L7_4.Telephony.pdb
+C:\Users\User\Source\Repos\OOP\Lab7\L7_4.Telephony\obj\Debug\netcoreapp3.1\L7_4.Telephony.genruntimeconfig.cache
