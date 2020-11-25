@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\OOP\Lab7\L7_2.Multiple_Implementation\bin\Debug\netcoreapp3.1\L7_2.Multiple_Implementation.exe
+C:\Users\User\Source\Repos\OOP\Lab7\L7_2.Multiple_Implementation\bin\Debug\netcoreapp3.1\L7_2.Multiple_Implementation.deps.json
+C:\Users\User\Source\Repos\OOP\Lab7\L7_2.Multiple_Implementation\bin\Debug\netcoreapp3.1\L7_2.Multiple_Implementation.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab7\L7_2.Multiple_Implementation\bin\Debug\netcoreapp3.1\L7_2.Multiple_Implementation.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab7\L7_2.Multiple_Implementation\bin\Debug\netcoreapp3.1\L7_2.Multiple_Implementation.dll
+C:\Users\User\Source\Repos\OOP\Lab7\L7_2.Multiple_Implementation\bin\Debug\netcoreapp3.1\L7_2.Multiple_Implementation.pdb
+C:\Users\User\Source\Repos\OOP\Lab7\L7_2.Multiple_Implementation\obj\Debug\netcoreapp3.1\L7_2.Multiple_Implementation.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\OOP\Lab7\L7_2.Multiple_Implementation\obj\Debug\netcoreapp3.1\L7_2.Multiple_Implementation.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab7\L7_2.Multiple_Implementation\obj\Debug\netcoreapp3.1\L7_2.Multiple_Implementation.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab7\L7_2.Multiple_Implementation\obj\Debug\netcoreapp3.1\L7_2.Multiple_Implementation.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab7\L7_2.Multiple_Implementation\obj\Debug\netcoreapp3.1\L7_2.Multiple_Implementation.dll
+C:\Users\User\Source\Repos\OOP\Lab7\L7_2.Multiple_Implementation\obj\Debug\netcoreapp3.1\L7_2.Multiple_Implementation.pdb
+C:\Users\User\Source\Repos\OOP\Lab7\L7_2.Multiple_Implementation\obj\Debug\netcoreapp3.1\L7_2.Multiple_Implementation.genruntimeconfig.cache
