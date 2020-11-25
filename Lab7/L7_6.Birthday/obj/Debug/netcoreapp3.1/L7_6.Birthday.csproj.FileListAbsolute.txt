@@ -1,0 +1,12 @@
+C:\Users\User\Source\Repos\OOP\Lab7\L7_6.Birthday\bin\Debug\netcoreapp3.1\L7_6.Birthday.exe
+C:\Users\User\Source\Repos\OOP\Lab7\L7_6.Birthday\bin\Debug\netcoreapp3.1\L7_6.Birthday.deps.json
+C:\Users\User\Source\Repos\OOP\Lab7\L7_6.Birthday\bin\Debug\netcoreapp3.1\L7_6.Birthday.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab7\L7_6.Birthday\bin\Debug\netcoreapp3.1\L7_6.Birthday.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab7\L7_6.Birthday\bin\Debug\netcoreapp3.1\L7_6.Birthday.dll
+C:\Users\User\Source\Repos\OOP\Lab7\L7_6.Birthday\bin\Debug\netcoreapp3.1\L7_6.Birthday.pdb
+C:\Users\User\Source\Repos\OOP\Lab7\L7_6.Birthday\obj\Debug\netcoreapp3.1\L7_6.Birthday.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab7\L7_6.Birthday\obj\Debug\netcoreapp3.1\L7_6.Birthday.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab7\L7_6.Birthday\obj\Debug\netcoreapp3.1\L7_6.Birthday.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab7\L7_6.Birthday\obj\Debug\netcoreapp3.1\L7_6.Birthday.dll
+C:\Users\User\Source\Repos\OOP\Lab7\L7_6.Birthday\obj\Debug\netcoreapp3.1\L7_6.Birthday.pdb
+C:\Users\User\Source\Repos\OOP\Lab7\L7_6.Birthday\obj\Debug\netcoreapp3.1\L7_6.Birthday.genruntimeconfig.cache
