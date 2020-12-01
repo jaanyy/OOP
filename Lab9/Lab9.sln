@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L9_0.Generic Box", "L9_0.Ge
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L9_1.Generic Box of String", "L9_1.Generic Box of String\L9_1.Generic Box of String.csproj", "{82E8D7E2-48FA-4FE7-A64A-0E7F4F9D78F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L9_2.Generic Box of Integers", "L9_2.Generic Box of Integers\L9_2.Generic Box of Integers.csproj", "{7ED4F317-2697-40D4-848D-8FB845474E0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{82E8D7E2-48FA-4FE7-A64A-0E7F4F9D78F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82E8D7E2-48FA-4FE7-A64A-0E7F4F9D78F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82E8D7E2-48FA-4FE7-A64A-0E7F4F9D78F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ED4F317-2697-40D4-848D-8FB845474E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED4F317-2697-40D4-848D-8FB845474E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED4F317-2697-40D4-848D-8FB845474E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED4F317-2697-40D4-848D-8FB845474E0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
