@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "L9_4.Generic Swap Method Integers/1.0.0": {
+        "runtime": {
+          "L9_4.Generic Swap Method Integers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L9_4.Generic Swap Method Integers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
