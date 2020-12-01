@@ -1,0 +1,12 @@
+C:\Users\User\Source\Repos\OOP\Lab9\L9_3.Generic Swap Method Strings\bin\Debug\netcoreapp3.1\L9_3.Generic Swap Method Strings.exe
+C:\Users\User\Source\Repos\OOP\Lab9\L9_3.Generic Swap Method Strings\bin\Debug\netcoreapp3.1\L9_3.Generic Swap Method Strings.deps.json
+C:\Users\User\Source\Repos\OOP\Lab9\L9_3.Generic Swap Method Strings\bin\Debug\netcoreapp3.1\L9_3.Generic Swap Method Strings.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab9\L9_3.Generic Swap Method Strings\bin\Debug\netcoreapp3.1\L9_3.Generic Swap Method Strings.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab9\L9_3.Generic Swap Method Strings\bin\Debug\netcoreapp3.1\L9_3.Generic Swap Method Strings.dll
+C:\Users\User\Source\Repos\OOP\Lab9\L9_3.Generic Swap Method Strings\bin\Debug\netcoreapp3.1\L9_3.Generic Swap Method Strings.pdb
+C:\Users\User\Source\Repos\OOP\Lab9\L9_3.Generic Swap Method Strings\obj\Debug\netcoreapp3.1\L9_3.Generic Swap Method Strings.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab9\L9_3.Generic Swap Method Strings\obj\Debug\netcoreapp3.1\L9_3.Generic Swap Method Strings.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab9\L9_3.Generic Swap Method Strings\obj\Debug\netcoreapp3.1\L9_3.Generic Swap Method Strings.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab9\L9_3.Generic Swap Method Strings\obj\Debug\netcoreapp3.1\L9_3.Generic Swap Method Strings.dll
+C:\Users\User\Source\Repos\OOP\Lab9\L9_3.Generic Swap Method Strings\obj\Debug\netcoreapp3.1\L9_3.Generic Swap Method Strings.pdb
+C:\Users\User\Source\Repos\OOP\Lab9\L9_3.Generic Swap Method Strings\obj\Debug\netcoreapp3.1\L9_3.Generic Swap Method Strings.genruntimeconfig.cache
