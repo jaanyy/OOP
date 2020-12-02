@@ -7,67 +7,51 @@ namespace _5_Pizza_Calories
 {
     class Topping
     {
-        private const int BaseCaloriesPerGram = 2;
-
-        private static object[] allowedToppingTypes = {
-        new { ToppingType = "meat", CaloriesModifier = 1.2 },
-        new { ToppingType = "veggies", CaloriesModifier = 0.8 },
-        new { ToppingType = "cheese", CaloriesModifier = 1.1 },
-        new { ToppingType = "sauce", CaloriesModifier = 0.9 }
-    };
-
-        private string toppingType;
-        private int weight;
-
-        public Topping(string toppingType, int weight)
+        private static readonly Dictionary<string, double> diffrentTypes;
+        static Topping()
         {
-            this.ToppingType = toppingType;
-            this.Weight = weight;
-        }
-
-        private string ToppingType
-        {
-            get
+            diffrentTypes = new Dictionary<string, double>
             {
-                return this.toppingType;
-            }
-
+                ["Meat"] = 1.2,
+                ["Veggies"] = 0.8,
+                ["Cheese"] = 1.1,
+                ["Sauce"] = 0.9
+            };
+        }
+        public string Type
+        {
+            get => Type;
             set
             {
-                if (!allowedToppingTypes.Any(
-                    tt => (string)tt.GetType().GetProperty("ToppingType").GetValue(tt, null) == value.ToLower()))
+                if (!diffrentTypes.ContainsKey(value))
                 {
                     throw new ArgumentException($"Cannot place {value} on top of your pizza.");
-                }
-
-                this.toppingType = value;
+                }   
+                Type = value;
             }
         }
-
-        private int Weight
+        public int Weight
         {
-            get
-            {
-                return this.weight;
-            }
-
-            set
+            get => Weight;
+            private set
             {
                 if (value < 1 || value > 50)
                 {
-                    throw new ArgumentException($"{this.ToppingType} weight should be in the range [1..50].");
-                }
-
-                this.weight = value;
+                    throw new ArgumentException($"{Type} weight should be in the range [1..50].");
+                }  
+                Weight = value;
             }
         }
-
-        public double Calories()
+        const int baseCalories = 2;
+        public Topping(string type, int weight)
         {
-            var ttObject = allowedToppingTypes.First(tt => (string)tt.GetType().GetProperty("ToppingType").GetValue(tt, null) == this.ToppingType.ToLower());
-            var ttModifier = (double)ttObject.GetType().GetProperty("CaloriesModifier").GetValue(ttObject, null);
+            Type = type;
+            Weight = weight;
+        }
 
-            return BaseCaloriesPerGram * ttModifier * this.Weight;
+        public double TotalCalories()
+        {
+            return (Weight * diffrentTypes[Type]);
         }
     }
 }

@@ -31,11 +31,11 @@ namespace _4_Shopping_Spree
 
             foreach (var p in input)
             {
-                var tokens = p.Split('=');
+                var data = p.Split('=');
 
                 try
                 {
-                    products.Add(new Product(tokens[0], decimal.Parse(tokens[1])));
+                    products.Add(new Product(data[0], decimal.Parse(data[1])));
                 }
                 catch (ArgumentException ex)
                 {
@@ -48,10 +48,10 @@ namespace _4_Shopping_Spree
 
             while ((command = Console.ReadLine()) != "END")
             {
-                var tokens = command.Split();
+                var data = command.Split();
 
-                string personName = tokens[0];
-                string productName = tokens[1];
+                string personName = data[0];
+                string productName = data[1];
 
                 var person = persons.Single(p => p.Name == personName);
                 var product = products.Single(p => p.Name == productName);
@@ -68,8 +68,15 @@ namespace _4_Shopping_Spree
 
             foreach (var person in persons)
             {
-                string productsBought = person.Products.Count == 0 ? "Nothing bought" : String.Join(", ", person.Products.Select(p => p.Name));
-
+                string productsBought;
+                if (person.Products.Count == 0)
+                {
+                    productsBought = "Nothing bought";
+                }
+                else
+                {
+                    productsBought = ", " + person.Products.Select(p => p.Name);                    
+                }
                 Console.WriteLine($"{person.Name} - {productsBought}");
             }
             Console.ReadKey();

@@ -8,16 +8,16 @@ namespace _5_Pizza_Calories
         {
             try
             {
-                var tokens = Console.ReadLine().Split();
-                Pizza pizza = new Pizza(tokens[1]);
-                tokens = Console.ReadLine().Split();
-                pizza.Dough = new Dough(tokens[1], tokens[2], int.Parse(tokens[3]));
+                var input = Console.ReadLine().Split();
+                Pizza pizza = new Pizza(input[1]);
+                input = Console.ReadLine().Split();
+                pizza.Dough = new Dough(input[1], input[2], Convert.ToInt32(input[3]));
 
                 string command;
                 while ((command = Console.ReadLine()) != "END")
                 {
-                    tokens = command.Split();
-                    pizza.AddTopping(new Topping(tokens[1], int.Parse(tokens[2])));
+                    input = command.Split();
+                    pizza.AddTopping(new Topping(input[1], Convert.ToInt32(input[2])));
                 }
 
                 Console.WriteLine(pizza);

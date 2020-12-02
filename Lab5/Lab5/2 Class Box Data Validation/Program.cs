@@ -10,10 +10,10 @@ namespace _2_Class_Box_Data_Validation
             double width = Convert.ToDouble(Console.ReadLine());
             double height = Convert.ToDouble(Console.ReadLine());
 
+            Box box = new Box(length, width, height);
+
             try
             {
-                Box box = new Box(length, width, height);
-
                 Console.WriteLine(box.GetSurfaceArea());
                 Console.WriteLine(box.GetLateralSurfaceArea());
                 Console.WriteLine(box.GetVolume());
@@ -22,6 +22,7 @@ namespace _2_Class_Box_Data_Validation
             {
                 Console.WriteLine(ex.Message);
             }
+
 
             Console.ReadKey();
         }

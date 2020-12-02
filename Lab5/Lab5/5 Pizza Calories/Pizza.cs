@@ -6,23 +6,9 @@ namespace _5_Pizza_Calories
 {
     class Pizza
     {
-        private string name;
-        private Dough dough;
-        private List<Topping> toppings;
-
-        public Pizza(string name)
+        public string Name 
         {
-            this.Name = name;
-            this.toppings = new List<Topping>();
-        }
-
-        private string Name
-        {
-            get
-            {
-                return this.name;
-            }
-
+            get => Name;
             set
             {
                 if (value.Length < 1 || value.Length > 15)
@@ -30,40 +16,33 @@ namespace _5_Pizza_Calories
                     throw new ArgumentException("Pizza name should be between 1 and 15 symbols.");
                 }
 
-                this.name = value;
+                Name = value;
             }
         }
+        public Dough Dough { get; set; }
+        private List<Topping> toppings;
 
-        public Dough Dough
+        public Pizza(string name)
         {
-            set
-            {
-                this.dough = value;
-            }
+            Name = name;
+            toppings = new List<Topping>();
         }
-
         public void AddTopping(Topping topping)
         {
-            if (this.toppings.Count == 10)
+            if (toppings.Count == 10)
             {
                 throw new ArgumentException("Number of toppings should be in range [0..10].");
             }
-
-            this.toppings.Add(topping);
+                
+            toppings.Add(topping);
         }
-
-        public double Calories()
+        public double TotalCalories()
         {
             double sum = 0;
-            sum += this.dough.Calories();
-            this.toppings.ForEach(t => sum += t.Calories());
+            sum += Dough.TotalCalories();
+            toppings.ForEach(t => sum += t.TotalCalories());
 
             return sum;
-        }
-
-        public override string ToString()
-        {
-            return $"{this.Name} - {this.Calories():f2} Calories.";
         }
     }
 }

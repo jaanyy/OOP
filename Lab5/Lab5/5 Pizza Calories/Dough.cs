@@ -7,95 +7,69 @@ namespace _5_Pizza_Calories
 {
     class Dough
     {
-        private const int BaseCaloriesPerGram = 2;
-
-    private static object[] allowedFlourTypes = {
-        new { FlourType = "white", CaloriesModifier = 1.5 },
-        new { FlourType = "wholegrain", CaloriesModifier = 1.0 }
-    };
-
-    private static object[] allowedBakingTechniqueTypes = {
-        new { BakingTechnique = "crispy", CaloriesModifier = 0.9 },
-        new { BakingTechnique = "chewy", CaloriesModifier = 1.1 },
-        new { BakingTechnique = "homemade", CaloriesModifier = 1.0 }
-    };
-
-    private string flourType;
-    private string bakingTechnique;
-    private int weight;
-
-    public Dough(string flourType, string bakingTechnique, int weight)
-    {
-        this.FlourType = flourType;
-        this.BakingTechnique = bakingTechnique;
-        this.Weight = weight;
-    }
-
-    private string FlourType
-    {
-        get
+        private static readonly Dictionary<string, double> flourTypes;
+        private static readonly Dictionary<string, double> bakingTechniques;
+        static Dough()
         {
-            return this.flourType;
-        }
-
-        set
-        {
-            if (!allowedFlourTypes.Any(
-                ft => (string)ft.GetType().GetProperty("FlourType").GetValue(ft, null) == value.ToLower()))
+            flourTypes = new Dictionary<string, double>
             {
-                throw new ArgumentException("Invalid type of dough.");
-            }
+                ["White"] = 1.5,
+                ["Wholegrain"] = 1.0
+            };
 
-            this.flourType = value;
-        }
-    }
-
-    private string BakingTechnique
-    {
-        get
-        {
-            return this.bakingTechnique;
-        }
-
-        set
-        {
-            if (!allowedBakingTechniqueTypes.Any(
-                bt => (string)bt.GetType().GetProperty("BakingTechnique").GetValue(bt, null) == value.ToLower()))
+            bakingTechniques = new Dictionary<string, double>
             {
-                throw new ArgumentException("Invalid type of dough.");
-            }
-
-            this.bakingTechnique = value;
+                ["Crispy"] = 0.9,
+                ["Chewy"] = 1.1,
+                ["Homemade"] = 1.0
+            };
         }
-    }
-
-    private int Weight
-    {
-        get
+        public string Type
         {
-            return this.weight;
-        }
-
-        set
-        {
-            if (value < 1 || value > 200)
+            get => Type;
+            set
             {
-                throw new ArgumentException("Dough weight should be in the range [1..200].");
+                if (!flourTypes.ContainsKey(value))
+                {
+                    throw new ArgumentException("Invalid type of dough.");
+                }   
+                Type = value;
             }
-
-            this.weight = value;
         }
-    }
+        public string Technique
+        {
+            get => Technique;
+            set
+            {
+                if (!bakingTechniques.ContainsKey(value))
+                {
+                    throw new ArgumentException("Invalid type of dough.");
+                }
+                Technique = value;
+            }
+        }
+        public int Weight {
+            get => Weight; 
+            set
+            {
+                if (value > 200 || value < 1)
+                {
+                    throw new ArgumentException("Dough weight should be in the range [1..200].");
+                }
+                Weight = value;
+            }
+        }
+        const int baseCalories = 2;
+        public Dough(string flourType, string bakingTechnique, int weight)
+        {
+            Type = flourType;
+            Technique = bakingTechnique;
+            Weight = weight;
+        }
+        public double TotalCalories()
+        {
 
-    public double Calories()
-    {
-        var ftObject = allowedFlourTypes.First(ft => (string)ft.GetType().GetProperty("FlourType").GetValue(ft, null) == this.FlourType.ToLower());
-        var ftModifier = (double)ftObject.GetType().GetProperty("CaloriesModifier").GetValue(ftObject, null);
-
-        var btObject = allowedBakingTechniqueTypes.First(bt => (string)bt.GetType().GetProperty("BakingTechnique").GetValue(bt, null) == this.BakingTechnique.ToLower());
-        var btModifier = (double)btObject.GetType().GetProperty("CaloriesModifier").GetValue(btObject, null);
-
-        return BaseCaloriesPerGram * ftModifier * btModifier * this.Weight;
-    }
+            return (baseCalories * Weight * flourTypes[Type] * bakingTechniques[Technique]);
+        }
     }
 }
