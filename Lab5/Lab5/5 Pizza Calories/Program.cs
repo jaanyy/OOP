@@ -19,7 +19,6 @@ namespace _5_Pizza_Calories
                     input = command.Split();
                     pizza.AddTopping(new Topping(input[1], Convert.ToInt32(input[2])));
                 }
-
                 Console.WriteLine(pizza);
             }
             catch (ArgumentException ex)
