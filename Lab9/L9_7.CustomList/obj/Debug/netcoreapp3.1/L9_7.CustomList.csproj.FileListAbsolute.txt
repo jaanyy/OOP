@@ -1,0 +1,12 @@
+C:\Users\User\Source\Repos\OOP\Lab9\L9_7.CustomList\bin\Debug\netcoreapp3.1\L9_7.CustomList.exe
+C:\Users\User\Source\Repos\OOP\Lab9\L9_7.CustomList\bin\Debug\netcoreapp3.1\L9_7.CustomList.deps.json
+C:\Users\User\Source\Repos\OOP\Lab9\L9_7.CustomList\bin\Debug\netcoreapp3.1\L9_7.CustomList.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab9\L9_7.CustomList\bin\Debug\netcoreapp3.1\L9_7.CustomList.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab9\L9_7.CustomList\bin\Debug\netcoreapp3.1\L9_7.CustomList.dll
+C:\Users\User\Source\Repos\OOP\Lab9\L9_7.CustomList\bin\Debug\netcoreapp3.1\L9_7.CustomList.pdb
+C:\Users\User\Source\Repos\OOP\Lab9\L9_7.CustomList\obj\Debug\netcoreapp3.1\L9_7.CustomList.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab9\L9_7.CustomList\obj\Debug\netcoreapp3.1\L9_7.CustomList.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab9\L9_7.CustomList\obj\Debug\netcoreapp3.1\L9_7.CustomList.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab9\L9_7.CustomList\obj\Debug\netcoreapp3.1\L9_7.CustomList.dll
+C:\Users\User\Source\Repos\OOP\Lab9\L9_7.CustomList\obj\Debug\netcoreapp3.1\L9_7.CustomList.pdb
+C:\Users\User\Source\Repos\OOP\Lab9\L9_7.CustomList\obj\Debug\netcoreapp3.1\L9_7.CustomList.genruntimeconfig.cache

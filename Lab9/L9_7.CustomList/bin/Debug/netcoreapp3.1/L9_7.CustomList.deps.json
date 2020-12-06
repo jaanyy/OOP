@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "L9_7.CustomList/1.0.0": {
+        "runtime": {
+          "L9_7.CustomList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L9_7.CustomList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

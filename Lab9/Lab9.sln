@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L9_5.Generic Count Method S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L9_6.Generic Count Method Doubles", "L9_6.Generic Count Method Doubles\L9_6.Generic Count Method Doubles.csproj", "{F55E45C1-13F8-498E-B72E-164597ADEDEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L9_7.CustomList", "L9_7.CustomList\L9_7.CustomList.csproj", "{B2D22BDE-92CF-42A3-89DE-6750C3DBAF22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F55E45C1-13F8-498E-B72E-164597ADEDEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F55E45C1-13F8-498E-B72E-164597ADEDEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F55E45C1-13F8-498E-B72E-164597ADEDEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2D22BDE-92CF-42A3-89DE-6750C3DBAF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D22BDE-92CF-42A3-89DE-6750C3DBAF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D22BDE-92CF-42A3-89DE-6750C3DBAF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D22BDE-92CF-42A3-89DE-6750C3DBAF22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
