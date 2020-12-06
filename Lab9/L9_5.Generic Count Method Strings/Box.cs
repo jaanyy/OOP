@@ -7,21 +7,21 @@ namespace L9_5.Generic_Count_Method_Strings
     class Box<T> : IComparable<T>
     where T : IComparable<T>
     {
-        private T value;
+        public T Value { get; set; }
 
         public Box(T value)
         {
-            this.value = value;
+            Value = value;
         }
 
         public int CompareTo(T other)
         {
-            return this.value.CompareTo(other);
+            return Value.CompareTo(other);
         }
 
         public override string ToString()
         {
-            return $"{this.value.GetType().FullName}: {this.value}";
+            return $"{Value.GetType().FullName}: {Value}";
         }
     }
 }

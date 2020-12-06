@@ -24,7 +24,7 @@ namespace L9_5.Generic_Count_Method_Strings
         {
             List<Box<string>> boxes = new List<Box<string>>();
 
-            int count = int.Parse(Console.ReadLine());
+            int count = Convert.ToInt32(Console.ReadLine());
 
             for (int i = 0; i < count; i++)
             {
