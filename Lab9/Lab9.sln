@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L9_0.Generic Box", "L9_0.Generic Box\L9_0.Generic Box.csproj", "{1F8E9EAE-7137-4003-9B38-4BA96C24322B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L9_0.Generic Box", "L9_0.Generic Box\L9_0.Generic Box.csproj", "{1F8E9EAE-7137-4003-9B38-4BA96C24322B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L9_1.Generic Box of String", "L9_1.Generic Box of String\L9_1.Generic Box of String.csproj", "{82E8D7E2-48FA-4FE7-A64A-0E7F4F9D78F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L9_1.Generic Box of String", "L9_1.Generic Box of String\L9_1.Generic Box of String.csproj", "{82E8D7E2-48FA-4FE7-A64A-0E7F4F9D78F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L9_2.Generic Box of Integers", "L9_2.Generic Box of Integers\L9_2.Generic Box of Integers.csproj", "{7ED4F317-2697-40D4-848D-8FB845474E0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L9_2.Generic Box of Integers", "L9_2.Generic Box of Integers\L9_2.Generic Box of Integers.csproj", "{7ED4F317-2697-40D4-848D-8FB845474E0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L9_3.Generic Swap Method Strings", "L9_3.Generic Swap Method Strings\L9_3.Generic Swap Method Strings.csproj", "{7B8E19CD-E1D4-4F2C-8614-7333061F4DFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L9_3.Generic Swap Method Strings", "L9_3.Generic Swap Method Strings\L9_3.Generic Swap Method Strings.csproj", "{7B8E19CD-E1D4-4F2C-8614-7333061F4DFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L9_4.Generic Swap Method Integers", "L9_4.Generic Swap Method Integers\L9_4.Generic Swap Method Integers.csproj", "{4E1E8B20-105D-428F-ABE2-2EAA7A9E6500}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L9_4.Generic Swap Method Integers", "L9_4.Generic Swap Method Integers\L9_4.Generic Swap Method Integers.csproj", "{4E1E8B20-105D-428F-ABE2-2EAA7A9E6500}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L9_5.Generic Count Method Strings", "L9_5.Generic Count Method Strings\L9_5.Generic Count Method Strings.csproj", "{52BDB5B6-AE96-4EE8-BBF5-A4760948382E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L9_5.Generic Count Method Strings", "L9_5.Generic Count Method Strings\L9_5.Generic Count Method Strings.csproj", "{52BDB5B6-AE96-4EE8-BBF5-A4760948382E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L9_6.Generic Count Method Doubles", "L9_6.Generic Count Method Doubles\L9_6.Generic Count Method Doubles.csproj", "{F55E45C1-13F8-498E-B72E-164597ADEDEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{52BDB5B6-AE96-4EE8-BBF5-A4760948382E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52BDB5B6-AE96-4EE8-BBF5-A4760948382E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52BDB5B6-AE96-4EE8-BBF5-A4760948382E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F55E45C1-13F8-498E-B72E-164597ADEDEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55E45C1-13F8-498E-B72E-164597ADEDEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55E45C1-13F8-498E-B72E-164597ADEDEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55E45C1-13F8-498E-B72E-164597ADEDEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
