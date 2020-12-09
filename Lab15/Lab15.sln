@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L15_3_StudentsByAge", "L15_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L15_4_SortStudents", "L15_4_SortStudents\L15_4_SortStudents.csproj", "{5CB839B6-A726-42ED-80C4-CA1AFDD5FB4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L15_5_FilterStudentsByEmailDomain", "L15_5_FilterStudentsByEmailDomain\L15_5_FilterStudentsByEmailDomain.csproj", "{44B25267-38FC-4778-909C-5B99CAF251DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{5CB839B6-A726-42ED-80C4-CA1AFDD5FB4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CB839B6-A726-42ED-80C4-CA1AFDD5FB4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CB839B6-A726-42ED-80C4-CA1AFDD5FB4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B25267-38FC-4778-909C-5B99CAF251DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B25267-38FC-4778-909C-5B99CAF251DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B25267-38FC-4778-909C-5B99CAF251DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B25267-38FC-4778-909C-5B99CAF251DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,12 @@
+C:\Users\User\Source\Repos\OOP\Lab15\L15_5_FilterStudentsByEmailDomain\bin\Debug\netcoreapp3.1\L15_5_FilterStudentsByEmailDomain.exe
+C:\Users\User\Source\Repos\OOP\Lab15\L15_5_FilterStudentsByEmailDomain\bin\Debug\netcoreapp3.1\L15_5_FilterStudentsByEmailDomain.deps.json
+C:\Users\User\Source\Repos\OOP\Lab15\L15_5_FilterStudentsByEmailDomain\bin\Debug\netcoreapp3.1\L15_5_FilterStudentsByEmailDomain.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab15\L15_5_FilterStudentsByEmailDomain\bin\Debug\netcoreapp3.1\L15_5_FilterStudentsByEmailDomain.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab15\L15_5_FilterStudentsByEmailDomain\bin\Debug\netcoreapp3.1\L15_5_FilterStudentsByEmailDomain.dll
+C:\Users\User\Source\Repos\OOP\Lab15\L15_5_FilterStudentsByEmailDomain\bin\Debug\netcoreapp3.1\L15_5_FilterStudentsByEmailDomain.pdb
+C:\Users\User\Source\Repos\OOP\Lab15\L15_5_FilterStudentsByEmailDomain\obj\Debug\netcoreapp3.1\L15_5_FilterStudentsByEmailDomain.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab15\L15_5_FilterStudentsByEmailDomain\obj\Debug\netcoreapp3.1\L15_5_FilterStudentsByEmailDomain.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab15\L15_5_FilterStudentsByEmailDomain\obj\Debug\netcoreapp3.1\L15_5_FilterStudentsByEmailDomain.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab15\L15_5_FilterStudentsByEmailDomain\obj\Debug\netcoreapp3.1\L15_5_FilterStudentsByEmailDomain.dll
+C:\Users\User\Source\Repos\OOP\Lab15\L15_5_FilterStudentsByEmailDomain\obj\Debug\netcoreapp3.1\L15_5_FilterStudentsByEmailDomain.pdb
+C:\Users\User\Source\Repos\OOP\Lab15\L15_5_FilterStudentsByEmailDomain\obj\Debug\netcoreapp3.1\L15_5_FilterStudentsByEmailDomain.genruntimeconfig.cache
