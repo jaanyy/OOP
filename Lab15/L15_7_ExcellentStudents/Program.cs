@@ -17,7 +17,7 @@ namespace L15_7_ExcellentStudents
                 List<int> marks = new List<int>();
                 for (int i = 2; i < input.Length; i++)
                 {
-                    marks.Add(int.Parse(input[i]));
+                    marks.Add(Convert.ToInt32(input[i]));
                 }
                     
                 students.Add(new Student(input[0], input[1], marks));
