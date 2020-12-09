@@ -1,0 +1,12 @@
+C:\Users\User\Source\Repos\OOP\Lab15\L15_6_FilterStudentsByPhone\bin\Debug\netcoreapp3.1\L15_6_FilterStudentsByPhone.exe
+C:\Users\User\Source\Repos\OOP\Lab15\L15_6_FilterStudentsByPhone\bin\Debug\netcoreapp3.1\L15_6_FilterStudentsByPhone.deps.json
+C:\Users\User\Source\Repos\OOP\Lab15\L15_6_FilterStudentsByPhone\bin\Debug\netcoreapp3.1\L15_6_FilterStudentsByPhone.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab15\L15_6_FilterStudentsByPhone\bin\Debug\netcoreapp3.1\L15_6_FilterStudentsByPhone.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab15\L15_6_FilterStudentsByPhone\bin\Debug\netcoreapp3.1\L15_6_FilterStudentsByPhone.dll
+C:\Users\User\Source\Repos\OOP\Lab15\L15_6_FilterStudentsByPhone\bin\Debug\netcoreapp3.1\L15_6_FilterStudentsByPhone.pdb
+C:\Users\User\Source\Repos\OOP\Lab15\L15_6_FilterStudentsByPhone\obj\Debug\netcoreapp3.1\L15_6_FilterStudentsByPhone.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab15\L15_6_FilterStudentsByPhone\obj\Debug\netcoreapp3.1\L15_6_FilterStudentsByPhone.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab15\L15_6_FilterStudentsByPhone\obj\Debug\netcoreapp3.1\L15_6_FilterStudentsByPhone.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab15\L15_6_FilterStudentsByPhone\obj\Debug\netcoreapp3.1\L15_6_FilterStudentsByPhone.dll
+C:\Users\User\Source\Repos\OOP\Lab15\L15_6_FilterStudentsByPhone\obj\Debug\netcoreapp3.1\L15_6_FilterStudentsByPhone.pdb
+C:\Users\User\Source\Repos\OOP\Lab15\L15_6_FilterStudentsByPhone\obj\Debug\netcoreapp3.1\L15_6_FilterStudentsByPhone.genruntimeconfig.cache
