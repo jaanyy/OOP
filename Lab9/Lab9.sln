@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L9_8.CustomListSorter-", "L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L9_10.Tuple", "L9_10.Tuple\L9_10.Tuple.csproj", "{3E65C79A-B40A-4E14-B9E1-0972E7A11C97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L9_11.Threeuple", "L9_11.Threeuple\L9_11.Threeuple.csproj", "{25626A2C-7D1C-45F5-83EF-234DFDE92998}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{3E65C79A-B40A-4E14-B9E1-0972E7A11C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E65C79A-B40A-4E14-B9E1-0972E7A11C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E65C79A-B40A-4E14-B9E1-0972E7A11C97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25626A2C-7D1C-45F5-83EF-234DFDE92998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25626A2C-7D1C-45F5-83EF-234DFDE92998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25626A2C-7D1C-45F5-83EF-234DFDE92998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25626A2C-7D1C-45F5-83EF-234DFDE92998}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
