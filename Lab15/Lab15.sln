@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L15_8_WeakStudents", "L15_8
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L15_9_StudentsEnrolled", "L15_9_StudentsEnrolled\L15_9_StudentsEnrolled.csproj", "{9BA8FD78-63CE-43DE-A072-651D90F1BE92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L15_10_GroupByGroup", "L15_10_GroupByGroup\L15_10_GroupByGroup.csproj", "{35963FC3-6934-46E1-BCA7-01188D414A69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{9BA8FD78-63CE-43DE-A072-651D90F1BE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BA8FD78-63CE-43DE-A072-651D90F1BE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BA8FD78-63CE-43DE-A072-651D90F1BE92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35963FC3-6934-46E1-BCA7-01188D414A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35963FC3-6934-46E1-BCA7-01188D414A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35963FC3-6934-46E1-BCA7-01188D414A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35963FC3-6934-46E1-BCA7-01188D414A69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
