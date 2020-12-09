@@ -15,11 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L9_4.Generic Swap Method In
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L9_5.Generic Count Method Strings", "L9_5.Generic Count Method Strings\L9_5.Generic Count Method Strings.csproj", "{52BDB5B6-AE96-4EE8-BBF5-A4760948382E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L9_6.Generic Count Method Doubles", "L9_6.Generic Count Method Doubles\L9_6.Generic Count Method Doubles.csproj", "{F55E45C1-13F8-498E-B72E-164597ADEDEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L9_6.Generic Count Method Doubles", "L9_6.Generic Count Method Doubles\L9_6.Generic Count Method Doubles.csproj", "{F55E45C1-13F8-498E-B72E-164597ADEDEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L9_7.CustomList", "L9_7.CustomList\L9_7.CustomList.csproj", "{B2D22BDE-92CF-42A3-89DE-6750C3DBAF22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L9_7.CustomList", "L9_7.CustomList\L9_7.CustomList.csproj", "{B2D22BDE-92CF-42A3-89DE-6750C3DBAF22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L9_8.CustomListSorter-", "L9_8.CustomListSorter\L9_8.CustomListSorter-.csproj", "{8697936B-BCF8-446A-8775-8BAE9D65EEA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L9_8.CustomListSorter-", "L9_8.CustomListSorter\L9_8.CustomListSorter-.csproj", "{8697936B-BCF8-446A-8775-8BAE9D65EEA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L9_10.Tuple", "L9_10.Tuple\L9_10.Tuple.csproj", "{3E65C79A-B40A-4E14-B9E1-0972E7A11C97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{8697936B-BCF8-446A-8775-8BAE9D65EEA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8697936B-BCF8-446A-8775-8BAE9D65EEA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8697936B-BCF8-446A-8775-8BAE9D65EEA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E65C79A-B40A-4E14-B9E1-0972E7A11C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E65C79A-B40A-4E14-B9E1-0972E7A11C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E65C79A-B40A-4E14-B9E1-0972E7A11C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E65C79A-B40A-4E14-B9E1-0972E7A11C97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
