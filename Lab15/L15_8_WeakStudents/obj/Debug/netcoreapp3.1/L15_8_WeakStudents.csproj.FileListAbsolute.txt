@@ -1,0 +1,12 @@
+C:\Users\User\Source\Repos\OOP\Lab15\L15_8_WeakStudents\bin\Debug\netcoreapp3.1\L15_8_WeakStudents.exe
+C:\Users\User\Source\Repos\OOP\Lab15\L15_8_WeakStudents\bin\Debug\netcoreapp3.1\L15_8_WeakStudents.deps.json
+C:\Users\User\Source\Repos\OOP\Lab15\L15_8_WeakStudents\bin\Debug\netcoreapp3.1\L15_8_WeakStudents.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab15\L15_8_WeakStudents\bin\Debug\netcoreapp3.1\L15_8_WeakStudents.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab15\L15_8_WeakStudents\bin\Debug\netcoreapp3.1\L15_8_WeakStudents.dll
+C:\Users\User\Source\Repos\OOP\Lab15\L15_8_WeakStudents\bin\Debug\netcoreapp3.1\L15_8_WeakStudents.pdb
+C:\Users\User\Source\Repos\OOP\Lab15\L15_8_WeakStudents\obj\Debug\netcoreapp3.1\L15_8_WeakStudents.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab15\L15_8_WeakStudents\obj\Debug\netcoreapp3.1\L15_8_WeakStudents.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab15\L15_8_WeakStudents\obj\Debug\netcoreapp3.1\L15_8_WeakStudents.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab15\L15_8_WeakStudents\obj\Debug\netcoreapp3.1\L15_8_WeakStudents.dll
+C:\Users\User\Source\Repos\OOP\Lab15\L15_8_WeakStudents\obj\Debug\netcoreapp3.1\L15_8_WeakStudents.pdb
+C:\Users\User\Source\Repos\OOP\Lab15\L15_8_WeakStudents\obj\Debug\netcoreapp3.1\L15_8_WeakStudents.genruntimeconfig.cache

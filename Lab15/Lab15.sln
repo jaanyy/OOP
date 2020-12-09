@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L15_6_FilterStudentsByPhone
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L15_7_ExcellentStudents", "L15_7_ExcellentStudents\L15_7_ExcellentStudents.csproj", "{634E27AF-3F73-48FC-9EEF-D08A54585B87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L15_8_WeakStudents", "L15_8_WeakStudents\L15_8_WeakStudents.csproj", "{3C64A4AF-5C47-4629-B6DD-4F19E607190F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{634E27AF-3F73-48FC-9EEF-D08A54585B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{634E27AF-3F73-48FC-9EEF-D08A54585B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{634E27AF-3F73-48FC-9EEF-D08A54585B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C64A4AF-5C47-4629-B6DD-4F19E607190F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C64A4AF-5C47-4629-B6DD-4F19E607190F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C64A4AF-5C47-4629-B6DD-4F19E607190F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C64A4AF-5C47-4629-B6DD-4F19E607190F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
