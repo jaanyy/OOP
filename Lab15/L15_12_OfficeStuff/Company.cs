@@ -7,17 +7,16 @@ namespace L15_12_OfficeStuff
 {
     class Company
     {
-        string _name;
         public string Name
         {
             get
             {
-                return _name;
+                return Name;
             }
             set
             {
                 if (value.All(x => char.IsLetter(x)) && value.Length <= 20)
-                    _name = value;
+                    Name = value;
                 else
                     throw new Exception("Invalid company name!");
             }

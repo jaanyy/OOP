@@ -10,7 +10,7 @@ namespace L15_12_OfficeStuff
         {
             try
             {
-                int n = int.Parse(Console.ReadLine());
+                int n = Convert.ToInt32(Console.ReadLine());
                 if (n >= 1 && n <= 100)
                 {
                     Dictionary<string, Company> companies = new Dictionary<string, Company>();
