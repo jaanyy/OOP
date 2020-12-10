@@ -1,0 +1,12 @@
+C:\Users\User\Source\Repos\OOP\Lab15\L15_12_OfficeStuff\bin\Debug\netcoreapp3.1\L15_12_OfficeStuff.exe
+C:\Users\User\Source\Repos\OOP\Lab15\L15_12_OfficeStuff\bin\Debug\netcoreapp3.1\L15_12_OfficeStuff.deps.json
+C:\Users\User\Source\Repos\OOP\Lab15\L15_12_OfficeStuff\bin\Debug\netcoreapp3.1\L15_12_OfficeStuff.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab15\L15_12_OfficeStuff\bin\Debug\netcoreapp3.1\L15_12_OfficeStuff.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab15\L15_12_OfficeStuff\bin\Debug\netcoreapp3.1\L15_12_OfficeStuff.dll
+C:\Users\User\Source\Repos\OOP\Lab15\L15_12_OfficeStuff\bin\Debug\netcoreapp3.1\L15_12_OfficeStuff.pdb
+C:\Users\User\Source\Repos\OOP\Lab15\L15_12_OfficeStuff\obj\Debug\netcoreapp3.1\L15_12_OfficeStuff.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab15\L15_12_OfficeStuff\obj\Debug\netcoreapp3.1\L15_12_OfficeStuff.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab15\L15_12_OfficeStuff\obj\Debug\netcoreapp3.1\L15_12_OfficeStuff.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab15\L15_12_OfficeStuff\obj\Debug\netcoreapp3.1\L15_12_OfficeStuff.dll
+C:\Users\User\Source\Repos\OOP\Lab15\L15_12_OfficeStuff\obj\Debug\netcoreapp3.1\L15_12_OfficeStuff.pdb
+C:\Users\User\Source\Repos\OOP\Lab15\L15_12_OfficeStuff\obj\Debug\netcoreapp3.1\L15_12_OfficeStuff.genruntimeconfig.cache
