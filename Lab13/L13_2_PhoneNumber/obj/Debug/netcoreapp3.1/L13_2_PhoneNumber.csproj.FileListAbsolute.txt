@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\OOP\Lab13\L13_2_PhoneNumber\bin\Debug\netcoreapp3.1\L13_2_PhoneNumber.exe
+C:\Users\User\Source\Repos\OOP\Lab13\L13_2_PhoneNumber\bin\Debug\netcoreapp3.1\L13_2_PhoneNumber.deps.json
+C:\Users\User\Source\Repos\OOP\Lab13\L13_2_PhoneNumber\bin\Debug\netcoreapp3.1\L13_2_PhoneNumber.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab13\L13_2_PhoneNumber\bin\Debug\netcoreapp3.1\L13_2_PhoneNumber.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab13\L13_2_PhoneNumber\bin\Debug\netcoreapp3.1\L13_2_PhoneNumber.dll
+C:\Users\User\Source\Repos\OOP\Lab13\L13_2_PhoneNumber\bin\Debug\netcoreapp3.1\L13_2_PhoneNumber.pdb
+C:\Users\User\Source\Repos\OOP\Lab13\L13_2_PhoneNumber\obj\Debug\netcoreapp3.1\L13_2_PhoneNumber.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\OOP\Lab13\L13_2_PhoneNumber\obj\Debug\netcoreapp3.1\L13_2_PhoneNumber.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab13\L13_2_PhoneNumber\obj\Debug\netcoreapp3.1\L13_2_PhoneNumber.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab13\L13_2_PhoneNumber\obj\Debug\netcoreapp3.1\L13_2_PhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab13\L13_2_PhoneNumber\obj\Debug\netcoreapp3.1\L13_2_PhoneNumber.dll
+C:\Users\User\Source\Repos\OOP\Lab13\L13_2_PhoneNumber\obj\Debug\netcoreapp3.1\L13_2_PhoneNumber.pdb
+C:\Users\User\Source\Repos\OOP\Lab13\L13_2_PhoneNumber\obj\Debug\netcoreapp3.1\L13_2_PhoneNumber.genruntimeconfig.cache
