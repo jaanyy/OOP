@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L13_6_Sentence", "L13_6_Sen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L13_7_Usernames", "L13_7_Usernames\L13_7_Usernames.csproj", "{C6916C80-786C-4D0A-8726-FC665A899133}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L13_8_HTML", "L13_8_HTML\L13_8_HTML.csproj", "{17BC71A7-2F1A-4FA1-854E-254C994EB75F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{C6916C80-786C-4D0A-8726-FC665A899133}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6916C80-786C-4D0A-8726-FC665A899133}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6916C80-786C-4D0A-8726-FC665A899133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17BC71A7-2F1A-4FA1-854E-254C994EB75F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17BC71A7-2F1A-4FA1-854E-254C994EB75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17BC71A7-2F1A-4FA1-854E-254C994EB75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17BC71A7-2F1A-4FA1-854E-254C994EB75F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\OOP\Lab13\L13_8_HTML\bin\Debug\netcoreapp3.1\L13_8_HTML.exe
+C:\Users\User\Source\Repos\OOP\Lab13\L13_8_HTML\bin\Debug\netcoreapp3.1\L13_8_HTML.deps.json
+C:\Users\User\Source\Repos\OOP\Lab13\L13_8_HTML\bin\Debug\netcoreapp3.1\L13_8_HTML.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab13\L13_8_HTML\bin\Debug\netcoreapp3.1\L13_8_HTML.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab13\L13_8_HTML\bin\Debug\netcoreapp3.1\L13_8_HTML.dll
+C:\Users\User\Source\Repos\OOP\Lab13\L13_8_HTML\bin\Debug\netcoreapp3.1\L13_8_HTML.pdb
+C:\Users\User\Source\Repos\OOP\Lab13\L13_8_HTML\obj\Debug\netcoreapp3.1\L13_8_HTML.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\OOP\Lab13\L13_8_HTML\obj\Debug\netcoreapp3.1\L13_8_HTML.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab13\L13_8_HTML\obj\Debug\netcoreapp3.1\L13_8_HTML.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab13\L13_8_HTML\obj\Debug\netcoreapp3.1\L13_8_HTML.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab13\L13_8_HTML\obj\Debug\netcoreapp3.1\L13_8_HTML.dll
+C:\Users\User\Source\Repos\OOP\Lab13\L13_8_HTML\obj\Debug\netcoreapp3.1\L13_8_HTML.pdb
+C:\Users\User\Source\Repos\OOP\Lab13\L13_8_HTML\obj\Debug\netcoreapp3.1\L13_8_HTML.genruntimeconfig.cache
