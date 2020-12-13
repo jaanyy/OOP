@@ -34,7 +34,7 @@ namespace L13_1_FullName
             }
             else
             {
-                Console.WriteLine("Совпадений не найдено");
+                Console.WriteLine("There are no matches");
             }
             
         
