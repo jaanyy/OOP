@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L13_5_Emails", "L13_5_Email
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L13_6_Sentence", "L13_6_Sentence\L13_6_Sentence.csproj", "{9B5B4CB1-C62C-427C-B8DA-128A47035C68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L13_7_Usernames", "L13_7_Usernames\L13_7_Usernames.csproj", "{C6916C80-786C-4D0A-8726-FC665A899133}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{9B5B4CB1-C62C-427C-B8DA-128A47035C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B5B4CB1-C62C-427C-B8DA-128A47035C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B5B4CB1-C62C-427C-B8DA-128A47035C68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6916C80-786C-4D0A-8726-FC665A899133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6916C80-786C-4D0A-8726-FC665A899133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6916C80-786C-4D0A-8726-FC665A899133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6916C80-786C-4D0A-8726-FC665A899133}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
