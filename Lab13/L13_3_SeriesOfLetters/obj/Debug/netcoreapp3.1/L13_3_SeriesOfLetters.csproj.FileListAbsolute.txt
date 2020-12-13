@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\OOP\Lab13\L13_3_SeriesOfLetters\bin\Debug\netcoreapp3.1\L13_3_SeriesOfLetters.exe
+C:\Users\User\Source\Repos\OOP\Lab13\L13_3_SeriesOfLetters\bin\Debug\netcoreapp3.1\L13_3_SeriesOfLetters.deps.json
+C:\Users\User\Source\Repos\OOP\Lab13\L13_3_SeriesOfLetters\bin\Debug\netcoreapp3.1\L13_3_SeriesOfLetters.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab13\L13_3_SeriesOfLetters\bin\Debug\netcoreapp3.1\L13_3_SeriesOfLetters.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab13\L13_3_SeriesOfLetters\bin\Debug\netcoreapp3.1\L13_3_SeriesOfLetters.dll
+C:\Users\User\Source\Repos\OOP\Lab13\L13_3_SeriesOfLetters\bin\Debug\netcoreapp3.1\L13_3_SeriesOfLetters.pdb
+C:\Users\User\Source\Repos\OOP\Lab13\L13_3_SeriesOfLetters\obj\Debug\netcoreapp3.1\L13_3_SeriesOfLetters.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\OOP\Lab13\L13_3_SeriesOfLetters\obj\Debug\netcoreapp3.1\L13_3_SeriesOfLetters.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab13\L13_3_SeriesOfLetters\obj\Debug\netcoreapp3.1\L13_3_SeriesOfLetters.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab13\L13_3_SeriesOfLetters\obj\Debug\netcoreapp3.1\L13_3_SeriesOfLetters.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab13\L13_3_SeriesOfLetters\obj\Debug\netcoreapp3.1\L13_3_SeriesOfLetters.dll
+C:\Users\User\Source\Repos\OOP\Lab13\L13_3_SeriesOfLetters\obj\Debug\netcoreapp3.1\L13_3_SeriesOfLetters.pdb
+C:\Users\User\Source\Repos\OOP\Lab13\L13_3_SeriesOfLetters\obj\Debug\netcoreapp3.1\L13_3_SeriesOfLetters.genruntimeconfig.cache

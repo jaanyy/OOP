@@ -9,7 +9,6 @@ namespace L13_2_PhoneNumber
         static void Main(string[] args)
         {
             string input = "";
-            List<string> result = new List<string>();
             Regex regex = new Regex(@"\+359([ ]2[ ]\d{3}[ ]\d{4}|[-]2[-]\d{3}[-]\d{4})\b");
             while (true)
             {

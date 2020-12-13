@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L13_1_FullName", "L13_1_Ful
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L13_2_PhoneNumber", "L13_2_PhoneNumber\L13_2_PhoneNumber.csproj", "{7710CD99-C9F9-42B8-B678-3DCC0A30B3A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L13_3_SeriesOfLetters", "L13_3_SeriesOfLetters\L13_3_SeriesOfLetters.csproj", "{9C6F1943-A0CC-4F63-9F90-A45A3081DB13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7710CD99-C9F9-42B8-B678-3DCC0A30B3A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7710CD99-C9F9-42B8-B678-3DCC0A30B3A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7710CD99-C9F9-42B8-B678-3DCC0A30B3A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C6F1943-A0CC-4F63-9F90-A45A3081DB13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C6F1943-A0CC-4F63-9F90-A45A3081DB13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C6F1943-A0CC-4F63-9F90-A45A3081DB13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C6F1943-A0CC-4F63-9F90-A45A3081DB13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
