@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\OOP\Lab13\L13_4_ReplaceTag\bin\Debug\netcoreapp3.1\L13_4_ReplaceTag.exe
+C:\Users\User\Source\Repos\OOP\Lab13\L13_4_ReplaceTag\bin\Debug\netcoreapp3.1\L13_4_ReplaceTag.deps.json
+C:\Users\User\Source\Repos\OOP\Lab13\L13_4_ReplaceTag\bin\Debug\netcoreapp3.1\L13_4_ReplaceTag.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab13\L13_4_ReplaceTag\bin\Debug\netcoreapp3.1\L13_4_ReplaceTag.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab13\L13_4_ReplaceTag\bin\Debug\netcoreapp3.1\L13_4_ReplaceTag.dll
+C:\Users\User\Source\Repos\OOP\Lab13\L13_4_ReplaceTag\bin\Debug\netcoreapp3.1\L13_4_ReplaceTag.pdb
+C:\Users\User\Source\Repos\OOP\Lab13\L13_4_ReplaceTag\obj\Debug\netcoreapp3.1\L13_4_ReplaceTag.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\OOP\Lab13\L13_4_ReplaceTag\obj\Debug\netcoreapp3.1\L13_4_ReplaceTag.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab13\L13_4_ReplaceTag\obj\Debug\netcoreapp3.1\L13_4_ReplaceTag.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab13\L13_4_ReplaceTag\obj\Debug\netcoreapp3.1\L13_4_ReplaceTag.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab13\L13_4_ReplaceTag\obj\Debug\netcoreapp3.1\L13_4_ReplaceTag.dll
+C:\Users\User\Source\Repos\OOP\Lab13\L13_4_ReplaceTag\obj\Debug\netcoreapp3.1\L13_4_ReplaceTag.pdb
+C:\Users\User\Source\Repos\OOP\Lab13\L13_4_ReplaceTag\obj\Debug\netcoreapp3.1\L13_4_ReplaceTag.genruntimeconfig.cache
