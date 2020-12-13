@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\OOP\Lab13\L13_1_FullName\bin\Debug\netcoreapp3.1\L13_1_FullName.exe
+C:\Users\User\Source\Repos\OOP\Lab13\L13_1_FullName\bin\Debug\netcoreapp3.1\L13_1_FullName.deps.json
+C:\Users\User\Source\Repos\OOP\Lab13\L13_1_FullName\bin\Debug\netcoreapp3.1\L13_1_FullName.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab13\L13_1_FullName\bin\Debug\netcoreapp3.1\L13_1_FullName.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab13\L13_1_FullName\bin\Debug\netcoreapp3.1\L13_1_FullName.dll
+C:\Users\User\Source\Repos\OOP\Lab13\L13_1_FullName\bin\Debug\netcoreapp3.1\L13_1_FullName.pdb
+C:\Users\User\Source\Repos\OOP\Lab13\L13_1_FullName\obj\Debug\netcoreapp3.1\L13_1_FullName.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\OOP\Lab13\L13_1_FullName\obj\Debug\netcoreapp3.1\L13_1_FullName.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab13\L13_1_FullName\obj\Debug\netcoreapp3.1\L13_1_FullName.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab13\L13_1_FullName\obj\Debug\netcoreapp3.1\L13_1_FullName.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab13\L13_1_FullName\obj\Debug\netcoreapp3.1\L13_1_FullName.dll
+C:\Users\User\Source\Repos\OOP\Lab13\L13_1_FullName\obj\Debug\netcoreapp3.1\L13_1_FullName.pdb
+C:\Users\User\Source\Repos\OOP\Lab13\L13_1_FullName\obj\Debug\netcoreapp3.1\L13_1_FullName.genruntimeconfig.cache

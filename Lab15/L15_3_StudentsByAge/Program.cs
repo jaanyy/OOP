@@ -24,9 +24,9 @@ namespace L15_3_StudentsByAge
 
             Console.ReadKey();
         }
-        static List<Student> StudentByAge(List<Student> studs)
+        static IEnumerable<Student> StudentByAge(List<Student> studs)
         {
-            var result = studs.Where(s => s.Age >= 18 && s.Age <= 24).ToList();
+            var result = studs.Where(s => s.Age >= 18 && s.Age <= 24);
 
             return result;
         }
