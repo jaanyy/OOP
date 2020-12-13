@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L13_4_ReplaceTag", "L13_4_R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L13_5_Emails", "L13_5_Emails\L13_5_Emails.csproj", "{A53DD98D-19C2-4225-B43F-A70DD52178A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L13_6_Sentence", "L13_6_Sentence\L13_6_Sentence.csproj", "{9B5B4CB1-C62C-427C-B8DA-128A47035C68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A53DD98D-19C2-4225-B43F-A70DD52178A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A53DD98D-19C2-4225-B43F-A70DD52178A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A53DD98D-19C2-4225-B43F-A70DD52178A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B5B4CB1-C62C-427C-B8DA-128A47035C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B5B4CB1-C62C-427C-B8DA-128A47035C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B5B4CB1-C62C-427C-B8DA-128A47035C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B5B4CB1-C62C-427C-B8DA-128A47035C68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

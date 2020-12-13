@@ -1,0 +1,12 @@
+C:\Users\User\Source\Repos\OOP\Lab13\L13_6_Sentence\bin\Debug\netcoreapp3.1\L13_6_Sentence.exe
+C:\Users\User\Source\Repos\OOP\Lab13\L13_6_Sentence\bin\Debug\netcoreapp3.1\L13_6_Sentence.deps.json
+C:\Users\User\Source\Repos\OOP\Lab13\L13_6_Sentence\bin\Debug\netcoreapp3.1\L13_6_Sentence.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab13\L13_6_Sentence\bin\Debug\netcoreapp3.1\L13_6_Sentence.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab13\L13_6_Sentence\bin\Debug\netcoreapp3.1\L13_6_Sentence.dll
+C:\Users\User\Source\Repos\OOP\Lab13\L13_6_Sentence\bin\Debug\netcoreapp3.1\L13_6_Sentence.pdb
+C:\Users\User\Source\Repos\OOP\Lab13\L13_6_Sentence\obj\Debug\netcoreapp3.1\L13_6_Sentence.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab13\L13_6_Sentence\obj\Debug\netcoreapp3.1\L13_6_Sentence.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab13\L13_6_Sentence\obj\Debug\netcoreapp3.1\L13_6_Sentence.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab13\L13_6_Sentence\obj\Debug\netcoreapp3.1\L13_6_Sentence.dll
+C:\Users\User\Source\Repos\OOP\Lab13\L13_6_Sentence\obj\Debug\netcoreapp3.1\L13_6_Sentence.pdb
+C:\Users\User\Source\Repos\OOP\Lab13\L13_6_Sentence\obj\Debug\netcoreapp3.1\L13_6_Sentence.genruntimeconfig.cache
