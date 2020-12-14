@@ -1,0 +1,12 @@
+C:\Users\User\Source\Repos\OOP\Lab14\L14_4_Keyword\bin\Debug\netcoreapp3.1\L14_4_Keyword.exe
+C:\Users\User\Source\Repos\OOP\Lab14\L14_4_Keyword\bin\Debug\netcoreapp3.1\L14_4_Keyword.deps.json
+C:\Users\User\Source\Repos\OOP\Lab14\L14_4_Keyword\bin\Debug\netcoreapp3.1\L14_4_Keyword.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab14\L14_4_Keyword\bin\Debug\netcoreapp3.1\L14_4_Keyword.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab14\L14_4_Keyword\bin\Debug\netcoreapp3.1\L14_4_Keyword.dll
+C:\Users\User\Source\Repos\OOP\Lab14\L14_4_Keyword\bin\Debug\netcoreapp3.1\L14_4_Keyword.pdb
+C:\Users\User\Source\Repos\OOP\Lab14\L14_4_Keyword\obj\Debug\netcoreapp3.1\L14_4_Keyword.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab14\L14_4_Keyword\obj\Debug\netcoreapp3.1\L14_4_Keyword.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab14\L14_4_Keyword\obj\Debug\netcoreapp3.1\L14_4_Keyword.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab14\L14_4_Keyword\obj\Debug\netcoreapp3.1\L14_4_Keyword.dll
+C:\Users\User\Source\Repos\OOP\Lab14\L14_4_Keyword\obj\Debug\netcoreapp3.1\L14_4_Keyword.pdb
+C:\Users\User\Source\Repos\OOP\Lab14\L14_4_Keyword\obj\Debug\netcoreapp3.1\L14_4_Keyword.genruntimeconfig.cache

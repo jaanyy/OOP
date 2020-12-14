@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L14_2_Fit", "L14_2_Fit\L14_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L14_3_Censor", "L14_3_Censor\L14_3_Censor.csproj", "{F792E524-1A83-49BC-A455-4759CC5789DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L14_4_Keyword", "L14_4_Keyword\L14_4_Keyword.csproj", "{562D2676-5D2A-4336-938F-6B41814ADB28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F792E524-1A83-49BC-A455-4759CC5789DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F792E524-1A83-49BC-A455-4759CC5789DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F792E524-1A83-49BC-A455-4759CC5789DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{562D2676-5D2A-4336-938F-6B41814ADB28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{562D2676-5D2A-4336-938F-6B41814ADB28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{562D2676-5D2A-4336-938F-6B41814ADB28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{562D2676-5D2A-4336-938F-6B41814ADB28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
