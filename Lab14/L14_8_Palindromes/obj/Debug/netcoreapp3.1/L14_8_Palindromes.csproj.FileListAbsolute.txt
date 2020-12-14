@@ -1,0 +1,12 @@
+C:\Users\User\Source\Repos\OOP\Lab14\L14_8_Palindromes\bin\Debug\netcoreapp3.1\L14_8_Palindromes.exe
+C:\Users\User\Source\Repos\OOP\Lab14\L14_8_Palindromes\bin\Debug\netcoreapp3.1\L14_8_Palindromes.deps.json
+C:\Users\User\Source\Repos\OOP\Lab14\L14_8_Palindromes\bin\Debug\netcoreapp3.1\L14_8_Palindromes.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab14\L14_8_Palindromes\bin\Debug\netcoreapp3.1\L14_8_Palindromes.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab14\L14_8_Palindromes\bin\Debug\netcoreapp3.1\L14_8_Palindromes.dll
+C:\Users\User\Source\Repos\OOP\Lab14\L14_8_Palindromes\bin\Debug\netcoreapp3.1\L14_8_Palindromes.pdb
+C:\Users\User\Source\Repos\OOP\Lab14\L14_8_Palindromes\obj\Debug\netcoreapp3.1\L14_8_Palindromes.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab14\L14_8_Palindromes\obj\Debug\netcoreapp3.1\L14_8_Palindromes.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab14\L14_8_Palindromes\obj\Debug\netcoreapp3.1\L14_8_Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab14\L14_8_Palindromes\obj\Debug\netcoreapp3.1\L14_8_Palindromes.dll
+C:\Users\User\Source\Repos\OOP\Lab14\L14_8_Palindromes\obj\Debug\netcoreapp3.1\L14_8_Palindromes.pdb
+C:\Users\User\Source\Repos\OOP\Lab14\L14_8_Palindromes\obj\Debug\netcoreapp3.1\L14_8_Palindromes.genruntimeconfig.cache
