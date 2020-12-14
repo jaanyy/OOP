@@ -1,0 +1,12 @@
+C:\Users\User\Source\Repos\OOP\Lab14\L14_11_CommonString\bin\Debug\netcoreapp3.1\L14_11_CommonString.exe
+C:\Users\User\Source\Repos\OOP\Lab14\L14_11_CommonString\bin\Debug\netcoreapp3.1\L14_11_CommonString.deps.json
+C:\Users\User\Source\Repos\OOP\Lab14\L14_11_CommonString\bin\Debug\netcoreapp3.1\L14_11_CommonString.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab14\L14_11_CommonString\bin\Debug\netcoreapp3.1\L14_11_CommonString.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab14\L14_11_CommonString\bin\Debug\netcoreapp3.1\L14_11_CommonString.dll
+C:\Users\User\Source\Repos\OOP\Lab14\L14_11_CommonString\bin\Debug\netcoreapp3.1\L14_11_CommonString.pdb
+C:\Users\User\Source\Repos\OOP\Lab14\L14_11_CommonString\obj\Debug\netcoreapp3.1\L14_11_CommonString.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab14\L14_11_CommonString\obj\Debug\netcoreapp3.1\L14_11_CommonString.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab14\L14_11_CommonString\obj\Debug\netcoreapp3.1\L14_11_CommonString.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab14\L14_11_CommonString\obj\Debug\netcoreapp3.1\L14_11_CommonString.dll
+C:\Users\User\Source\Repos\OOP\Lab14\L14_11_CommonString\obj\Debug\netcoreapp3.1\L14_11_CommonString.pdb
+C:\Users\User\Source\Repos\OOP\Lab14\L14_11_CommonString\obj\Debug\netcoreapp3.1\L14_11_CommonString.genruntimeconfig.cache
