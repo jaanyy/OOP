@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\OOP\Lab14\L14_10_Palindrome_Index\bin\Debug\netcoreapp3.1\L14_10_Palindrome_Index.exe
+C:\Users\User\Source\Repos\OOP\Lab14\L14_10_Palindrome_Index\bin\Debug\netcoreapp3.1\L14_10_Palindrome_Index.deps.json
+C:\Users\User\Source\Repos\OOP\Lab14\L14_10_Palindrome_Index\bin\Debug\netcoreapp3.1\L14_10_Palindrome_Index.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab14\L14_10_Palindrome_Index\bin\Debug\netcoreapp3.1\L14_10_Palindrome_Index.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab14\L14_10_Palindrome_Index\bin\Debug\netcoreapp3.1\L14_10_Palindrome_Index.dll
+C:\Users\User\Source\Repos\OOP\Lab14\L14_10_Palindrome_Index\bin\Debug\netcoreapp3.1\L14_10_Palindrome_Index.pdb
+C:\Users\User\Source\Repos\OOP\Lab14\L14_10_Palindrome_Index\obj\Debug\netcoreapp3.1\L14_10_Palindrome_Index.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\OOP\Lab14\L14_10_Palindrome_Index\obj\Debug\netcoreapp3.1\L14_10_Palindrome_Index.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab14\L14_10_Palindrome_Index\obj\Debug\netcoreapp3.1\L14_10_Palindrome_Index.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab14\L14_10_Palindrome_Index\obj\Debug\netcoreapp3.1\L14_10_Palindrome_Index.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab14\L14_10_Palindrome_Index\obj\Debug\netcoreapp3.1\L14_10_Palindrome_Index.dll
+C:\Users\User\Source\Repos\OOP\Lab14\L14_10_Palindrome_Index\obj\Debug\netcoreapp3.1\L14_10_Palindrome_Index.pdb
+C:\Users\User\Source\Repos\OOP\Lab14\L14_10_Palindrome_Index\obj\Debug\netcoreapp3.1\L14_10_Palindrome_Index.genruntimeconfig.cache
