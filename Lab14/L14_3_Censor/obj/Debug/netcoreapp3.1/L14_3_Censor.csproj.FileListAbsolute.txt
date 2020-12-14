@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\OOP\Lab14\L14_3_Censor\bin\Debug\netcoreapp3.1\L14_3_Censor.exe
+C:\Users\User\Source\Repos\OOP\Lab14\L14_3_Censor\bin\Debug\netcoreapp3.1\L14_3_Censor.deps.json
+C:\Users\User\Source\Repos\OOP\Lab14\L14_3_Censor\bin\Debug\netcoreapp3.1\L14_3_Censor.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab14\L14_3_Censor\bin\Debug\netcoreapp3.1\L14_3_Censor.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab14\L14_3_Censor\bin\Debug\netcoreapp3.1\L14_3_Censor.dll
+C:\Users\User\Source\Repos\OOP\Lab14\L14_3_Censor\bin\Debug\netcoreapp3.1\L14_3_Censor.pdb
+C:\Users\User\Source\Repos\OOP\Lab14\L14_3_Censor\obj\Debug\netcoreapp3.1\L14_3_Censor.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\OOP\Lab14\L14_3_Censor\obj\Debug\netcoreapp3.1\L14_3_Censor.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab14\L14_3_Censor\obj\Debug\netcoreapp3.1\L14_3_Censor.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab14\L14_3_Censor\obj\Debug\netcoreapp3.1\L14_3_Censor.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab14\L14_3_Censor\obj\Debug\netcoreapp3.1\L14_3_Censor.dll
+C:\Users\User\Source\Repos\OOP\Lab14\L14_3_Censor\obj\Debug\netcoreapp3.1\L14_3_Censor.pdb
+C:\Users\User\Source\Repos\OOP\Lab14\L14_3_Censor\obj\Debug\netcoreapp3.1\L14_3_Censor.genruntimeconfig.cache
