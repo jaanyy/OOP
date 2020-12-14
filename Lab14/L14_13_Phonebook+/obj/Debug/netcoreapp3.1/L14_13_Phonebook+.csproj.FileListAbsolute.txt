@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\OOP\Lab14\L14_13_Phonebook+\bin\Debug\netcoreapp3.1\L14_13_Phonebook+.exe
+C:\Users\User\Source\Repos\OOP\Lab14\L14_13_Phonebook+\bin\Debug\netcoreapp3.1\L14_13_Phonebook+.deps.json
+C:\Users\User\Source\Repos\OOP\Lab14\L14_13_Phonebook+\bin\Debug\netcoreapp3.1\L14_13_Phonebook+.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab14\L14_13_Phonebook+\bin\Debug\netcoreapp3.1\L14_13_Phonebook+.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab14\L14_13_Phonebook+\bin\Debug\netcoreapp3.1\L14_13_Phonebook+.dll
+C:\Users\User\Source\Repos\OOP\Lab14\L14_13_Phonebook+\bin\Debug\netcoreapp3.1\L14_13_Phonebook+.pdb
+C:\Users\User\Source\Repos\OOP\Lab14\L14_13_Phonebook+\obj\Debug\netcoreapp3.1\L14_13_Phonebook+.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\OOP\Lab14\L14_13_Phonebook+\obj\Debug\netcoreapp3.1\L14_13_Phonebook+.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab14\L14_13_Phonebook+\obj\Debug\netcoreapp3.1\L14_13_Phonebook+.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab14\L14_13_Phonebook+\obj\Debug\netcoreapp3.1\L14_13_Phonebook+.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab14\L14_13_Phonebook+\obj\Debug\netcoreapp3.1\L14_13_Phonebook+.dll
+C:\Users\User\Source\Repos\OOP\Lab14\L14_13_Phonebook+\obj\Debug\netcoreapp3.1\L14_13_Phonebook+.pdb
+C:\Users\User\Source\Repos\OOP\Lab14\L14_13_Phonebook+\obj\Debug\netcoreapp3.1\L14_13_Phonebook+.genruntimeconfig.cache
