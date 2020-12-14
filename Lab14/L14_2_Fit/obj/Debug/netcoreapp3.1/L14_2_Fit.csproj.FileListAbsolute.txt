@@ -1,0 +1,13 @@
+C:\Users\User\Source\Repos\OOP\Lab14\L14_2_Fit\bin\Debug\netcoreapp3.1\L14_2_Fit.exe
+C:\Users\User\Source\Repos\OOP\Lab14\L14_2_Fit\bin\Debug\netcoreapp3.1\L14_2_Fit.deps.json
+C:\Users\User\Source\Repos\OOP\Lab14\L14_2_Fit\bin\Debug\netcoreapp3.1\L14_2_Fit.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab14\L14_2_Fit\bin\Debug\netcoreapp3.1\L14_2_Fit.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab14\L14_2_Fit\bin\Debug\netcoreapp3.1\L14_2_Fit.dll
+C:\Users\User\Source\Repos\OOP\Lab14\L14_2_Fit\bin\Debug\netcoreapp3.1\L14_2_Fit.pdb
+C:\Users\User\Source\Repos\OOP\Lab14\L14_2_Fit\obj\Debug\netcoreapp3.1\L14_2_Fit.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\OOP\Lab14\L14_2_Fit\obj\Debug\netcoreapp3.1\L14_2_Fit.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab14\L14_2_Fit\obj\Debug\netcoreapp3.1\L14_2_Fit.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab14\L14_2_Fit\obj\Debug\netcoreapp3.1\L14_2_Fit.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab14\L14_2_Fit\obj\Debug\netcoreapp3.1\L14_2_Fit.dll
+C:\Users\User\Source\Repos\OOP\Lab14\L14_2_Fit\obj\Debug\netcoreapp3.1\L14_2_Fit.pdb
+C:\Users\User\Source\Repos\OOP\Lab14\L14_2_Fit\obj\Debug\netcoreapp3.1\L14_2_Fit.genruntimeconfig.cache
