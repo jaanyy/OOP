@@ -1,0 +1,12 @@
+C:\Users\User\Source\Repos\OOP\Lab14\L14_9_Capitalization\bin\Debug\netcoreapp3.1\L14_9_Capitalization.exe
+C:\Users\User\Source\Repos\OOP\Lab14\L14_9_Capitalization\bin\Debug\netcoreapp3.1\L14_9_Capitalization.deps.json
+C:\Users\User\Source\Repos\OOP\Lab14\L14_9_Capitalization\bin\Debug\netcoreapp3.1\L14_9_Capitalization.runtimeconfig.json
+C:\Users\User\Source\Repos\OOP\Lab14\L14_9_Capitalization\bin\Debug\netcoreapp3.1\L14_9_Capitalization.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\OOP\Lab14\L14_9_Capitalization\bin\Debug\netcoreapp3.1\L14_9_Capitalization.dll
+C:\Users\User\Source\Repos\OOP\Lab14\L14_9_Capitalization\bin\Debug\netcoreapp3.1\L14_9_Capitalization.pdb
+C:\Users\User\Source\Repos\OOP\Lab14\L14_9_Capitalization\obj\Debug\netcoreapp3.1\L14_9_Capitalization.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab14\L14_9_Capitalization\obj\Debug\netcoreapp3.1\L14_9_Capitalization.AssemblyInfo.cs
+C:\Users\User\Source\Repos\OOP\Lab14\L14_9_Capitalization\obj\Debug\netcoreapp3.1\L14_9_Capitalization.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\OOP\Lab14\L14_9_Capitalization\obj\Debug\netcoreapp3.1\L14_9_Capitalization.dll
+C:\Users\User\Source\Repos\OOP\Lab14\L14_9_Capitalization\obj\Debug\netcoreapp3.1\L14_9_Capitalization.pdb
+C:\Users\User\Source\Repos\OOP\Lab14\L14_9_Capitalization\obj\Debug\netcoreapp3.1\L14_9_Capitalization.genruntimeconfig.cache

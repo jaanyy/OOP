@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L14_7_Change", "L14_7_Chang
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L14_8_Palindromes", "L14_8_Palindromes\L14_8_Palindromes.csproj", "{3225330E-64BB-4498-B878-6DB45BFC8444}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L14_9_Capitalization", "L14_9_Capitalization\L14_9_Capitalization.csproj", "{4421A9E5-5F56-4108-91AA-65F5F7C069D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{3225330E-64BB-4498-B878-6DB45BFC8444}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3225330E-64BB-4498-B878-6DB45BFC8444}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3225330E-64BB-4498-B878-6DB45BFC8444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4421A9E5-5F56-4108-91AA-65F5F7C069D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4421A9E5-5F56-4108-91AA-65F5F7C069D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4421A9E5-5F56-4108-91AA-65F5F7C069D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4421A9E5-5F56-4108-91AA-65F5F7C069D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
