@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L14_3_Censor", "L14_3_Censo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L14_4_Keyword", "L14_4_Keyword\L14_4_Keyword.csproj", "{562D2676-5D2A-4336-938F-6B41814ADB28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L14_5_URL", "L14_5_URL\L14_5_URL.csproj", "{419C351F-BE94-4292-A281-06CBF862EFBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{562D2676-5D2A-4336-938F-6B41814ADB28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{562D2676-5D2A-4336-938F-6B41814ADB28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{562D2676-5D2A-4336-938F-6B41814ADB28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{419C351F-BE94-4292-A281-06CBF862EFBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419C351F-BE94-4292-A281-06CBF862EFBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419C351F-BE94-4292-A281-06CBF862EFBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419C351F-BE94-4292-A281-06CBF862EFBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
